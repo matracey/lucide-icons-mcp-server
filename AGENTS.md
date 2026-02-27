@@ -24,21 +24,35 @@ npx vitest run src/__tests__/server.test.ts
 Run a single test by name:
 
 ```bash
-npx vitest run -t "should return a greeting"
+npx vitest run -t "should return results for a valid query"
 ```
 
 ## Architecture
 
-This is an MCP (Model Context Protocol) server that exposes tools for AI assistants. It communicates over **stdio transport**.
+This is an MCP (Model Context Protocol) server that exposes Lucide icon documentation as tools for AI assistants. It communicates over **stdio transport**.
+
+### Data Flow
+
+```
+generate-knowledge-base.ts → icons.json → search/formatters → MCP tools (stdio)
+```
+
+1. **Knowledge base generation** (`npm run generate`): The `scripts/generate-knowledge-base.ts` script fetches icon metadata from the Lucide APIs (`/api/categories`, `/api/tags`) and SVG content from the `lucide-icons/lucide` GitHub repo, then outputs `src/data/generated/icons.json`. This is a dev-time step — the generated JSON is committed to the repo.
+
+2. **Runtime**: `src/index.ts` creates the MCP server and connects it via `StdioServerTransport`. The server (defined in `src/server.ts`) registers 6 tools that query the static knowledge base through `src/search.ts` and format results via `src/formatters.ts`.
 
 ### Key Source Files
 
-- `src/index.ts` — Entry point. Creates the MCP server and connects it via `StdioServerTransport`.
 - `src/server.ts` — Registers all MCP tools with Zod schemas. This is where tool definitions and handlers live.
+- `src/search.ts` — Token-based search engine with weighted scoring (exact name: +100, name contains: +50, token match: +30, etc.).
+- `src/formatters.ts` — Converts icons and search results into markdown strings for tool responses. Generates per-package code examples from templates.
+- `src/types.ts` — Core type definitions (`LucideIcon`, `LucidePackage`, `CodeExample`, `SearchResult`).
+- `src/constants.ts` — Package definitions (all 11 Lucide packages), categories, base URLs.
+- `src/data/generated/` — Auto-generated from `npm run generate`. Do not edit manually.
 
 ### Adding a New Tool
 
-Edit `src/server.ts` and register a new tool using `server.tool()`. See the existing `hello` tool for the pattern.
+Edit `src/server.ts` and register a new tool using `server.tool()`. See the existing `lucide_search` tool for the pattern.
 
 ## Conventions
 
