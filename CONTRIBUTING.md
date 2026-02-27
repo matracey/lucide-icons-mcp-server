@@ -43,6 +43,14 @@ npm run format        # Auto-format code
 npm run format:check  # Check formatting
 ```
 
+### Regenerate Knowledge Base
+
+If you're updating icon data:
+
+```bash
+npm run generate
+```
+
 ## Pull Request Guidelines
 
 - Follow [conventional commits](https://www.conventionalcommits.org/) for commit messages (e.g. `feat:`, `fix:`, `chore:`, `docs:`, `test:`)
