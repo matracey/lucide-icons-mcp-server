@@ -3168,6 +3168,15 @@
       "finance"
     ],
     "tags": [
+      "cryptocurrency",
+      "digital",
+      "blockchain",
+      "finance",
+      "coin",
+      "market",
+      "decentralized",
+      "investment",
+      "crypto",
       "currency",
       "money",
       "payment"
@@ -10488,6 +10497,27 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m2 2 20 20\" />\n  <path d=\"M20 14.347V14c0-6-4-12-8-12-1.078 0-2.157.436-3.157 1.19\" />\n  <path d=\"M6.206 6.21C4.871 8.4 4 11.2 4 14a8 8 0 0 0 14.568 4.568\" />\n</svg>\n"
   },
   {
+    "name": "Ellipse",
+    "slug": "ellipse",
+    "categories": [
+      "shapes"
+    ],
+    "tags": [
+      "shape",
+      "geometry",
+      "rounded",
+      "smooth",
+      "outline",
+      "form",
+      "boundary",
+      "curve",
+      "shapes",
+      "ellipse",
+      "oval"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <ellipse cx=\"12\" cy=\"12\" rx=\"10\" ry=\"6\" />\n</svg>\n"
+  },
+  {
     "name": "Ellipsis",
     "slug": "ellipsis",
     "categories": [
@@ -11869,6 +11899,22 @@
       "travel"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m17.586 11.414-5.93 5.93a1 1 0 0 1-8-8l3.137-3.137a.707.707 0 0 1 1.207.5V10\" />\n  <path d=\"M20.414 8.586 22 7\" />\n  <circle cx=\"19\" cy=\"10\" r=\"2\" />\n</svg>\n"
+  },
+  {
+    "name": "FishingRod",
+    "slug": "fishing-rod",
+    "categories": [
+      "sports",
+      "travel"
+    ],
+    "tags": [
+      "fishing",
+      "rod",
+      "hobby",
+      "equipment",
+      "reel"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M4 11h1\" />\n  <path d=\"M8 15a2 2 0 0 1-4 0V3a1 1 0 0 1 1-1h.5C14 2 20 9 20 18v4\" />\n  <circle cx=\"18\" cy=\"18\" r=\"2\" />\n</svg>\n"
   },
   {
     "name": "Flag",
