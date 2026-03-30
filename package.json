@@ -1,6 +1,6 @@
 {
   "name": "lucide-icons-mcp-server",
-  "version": "0.577.0",
+  "version": "1.7.0",
   "description": "MCP server for Lucide Icons — search docs, props, and code examples from any AI coding assistant",
   "type": "module",
   "bin": {
