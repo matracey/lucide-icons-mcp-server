@@ -1700,6 +1700,26 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 6v12\" />\n  <path d=\"M17.196 9 6.804 15\" />\n  <path d=\"m6.804 9 10.392 6\" />\n</svg>\n"
   },
   {
+    "name": "Astroid",
+    "slug": "astroid",
+    "categories": [
+      "shapes",
+      "math"
+    ],
+    "tags": [
+      "star",
+      "math",
+      "shape",
+      "curve",
+      "sharp",
+      "four-pointed",
+      "hypocycloid",
+      "ai",
+      "artificial intelligence"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12.983 21.186a1 1 0 0 1-1.966 0 10 10 0 0 0-8.203-8.203 1 1 0 0 1 0-1.966 10 10 0 0 0 8.203-8.203 1 1 0 0 1 1.966 0 10 10 0 0 0 8.203 8.203 1 1 0 0 1 0 1.966 10 10 0 0 0-8.203 8.203\" />\n</svg>\n"
+  },
+  {
     "name": "AtSign",
     "slug": "at-sign",
     "categories": [
@@ -22170,6 +22190,21 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m2 9 3-3 3 3\" />\n  <path d=\"M13 18H7a2 2 0 0 1-2-2V6\" />\n  <path d=\"m22 15-3 3-3-3\" />\n  <path d=\"M11 6h6a2 2 0 0 1 2 2v10\" />\n</svg>\n"
   },
   {
+    "name": "RepeatOff",
+    "slug": "repeat-off",
+    "categories": [
+      "arrows",
+      "multimedia"
+    ],
+    "tags": [
+      "loop",
+      "arrows",
+      "recurring",
+      "again"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M11.656 6H21l-4-4\" />\n  <path d=\"M17.898 17.898A4 4 0 0 1 17 18H3l4-4\" />\n  <path d=\"m2 2 20 20\" />\n  <path d=\"M21 13v1a4 4 0 0 1-.171 1.159\" />\n  <path d=\"m21 6-4 4\" />\n  <path d=\"M3 11v-1a4 4 0 0 1 3.102-3.898\" />\n  <path d=\"m7 22-4-4\" />\n</svg>\n"
+  },
+  {
     "name": "Replace",
     "slug": "replace",
     "categories": [
@@ -30487,25 +30522,6 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 10v2.2l1.6 1\" />\n  <path d=\"m16.13 7.66-.81-4.05a2 2 0 0 0-2-1.61h-2.68a2 2 0 0 0-2 1.61l-.78 4.05\" />\n  <path d=\"m7.88 16.36.8 4a2 2 0 0 0 2 1.61h2.72a2 2 0 0 0 2-1.61l.81-4.05\" />\n  <circle cx=\"12\" cy=\"12\" r=\"6\" />\n</svg>\n"
   },
   {
-    "name": "Waves",
-    "slug": "waves",
-    "categories": [
-      "weather",
-      "navigation",
-      "multimedia",
-      "sustainability"
-    ],
-    "tags": [
-      "water",
-      "sea",
-      "sound",
-      "hertz",
-      "wavelength",
-      "vibrate"
-    ],
-    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M2 6c.6.5 1.2 1 2.5 1C7 7 7 5 9.5 5c2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1\" />\n  <path d=\"M2 12c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1\" />\n  <path d=\"M2 18c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1\" />\n</svg>\n"
-  },
-  {
     "name": "WavesArrowDown",
     "slug": "waves-arrow-down",
     "categories": [
@@ -30552,6 +30568,28 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 2v8\" />\n  <path d=\"M2 15c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1\" />\n  <path d=\"M2 21c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1\" />\n  <path d=\"m8 6 4-4 4 4\" />\n</svg>\n"
   },
   {
+    "name": "WavesHorizontal",
+    "slug": "waves-horizontal",
+    "categories": [
+      "weather",
+      "navigation",
+      "multimedia",
+      "sustainability"
+    ],
+    "tags": [
+      "water",
+      "sea",
+      "sound",
+      "hertz",
+      "wavelength",
+      "vibrate",
+      "ocean",
+      "swimming",
+      "frequency"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M2 12q2.5 2 5 0t5 0 5 0 5 0\" />\n  <path d=\"M2 19q2.5 2 5 0t5 0 5 0 5 0\" />\n  <path d=\"M2 5q2.5 2 5 0t5 0 5 0 5 0\" />\n</svg>\n"
+  },
+  {
     "name": "WavesLadder",
     "slug": "waves-ladder",
     "categories": [
@@ -30571,6 +30609,29 @@
       "🥽"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M19 5a2 2 0 0 0-2 2v11\" />\n  <path d=\"M2 18c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1\" />\n  <path d=\"M7 13h10\" />\n  <path d=\"M7 9h10\" />\n  <path d=\"M9 5a2 2 0 0 0-2 2v11\" />\n</svg>\n"
+  },
+  {
+    "name": "WavesVertical",
+    "slug": "waves-vertical",
+    "categories": [
+      "weather",
+      "sustainability"
+    ],
+    "tags": [
+      "steam",
+      "warmth",
+      "temperature",
+      "burn",
+      "hot",
+      "boiling",
+      "heat",
+      "smoke",
+      "vapor",
+      "smell",
+      "aroma",
+      "sauna"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 2q2 2.5 0 5t0 5 0 5 0 5\" />\n  <path d=\"M19 2q2 2.5 0 5t0 5 0 5 0 5\" />\n  <path d=\"M5 2q2 2.5 0 5t0 5 0 5 0 5\" />\n</svg>\n"
   },
   {
     "name": "Waypoints",
