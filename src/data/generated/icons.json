@@ -3515,6 +3515,33 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M17 10c.7-.7 1.69 0 2.5 0a2.5 2.5 0 1 0 0-5 .5.5 0 0 1-.5-.5 2.5 2.5 0 1 0-5 0c0 .81.7 1.8 0 2.5l-7 7c-.7.7-1.69 0-2.5 0a2.5 2.5 0 0 0 0 5c.28 0 .5.22.5.5a2.5 2.5 0 1 0 5 0c0-.81-.7-1.8 0-2.5Z\" />\n</svg>\n"
   },
   {
+    "name": "BoneFracture",
+    "slug": "bone-fracture",
+    "categories": [
+      "medical",
+      "animals"
+    ],
+    "tags": [
+      "bone",
+      "fracture",
+      "injury",
+      "orthopedic",
+      "medical",
+      "anatomy",
+      "skeletal",
+      "broken",
+      "xray",
+      "trauma",
+      "health",
+      "vet",
+      "veterinary",
+      "crack",
+      "break",
+      "damage"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M14 4.5a1 1 0 0 1 5 0 .5.5 0 0 0 .5.5 1 1 0 0 1 0 5c-.81 0-1.8-.7-2.5 0l-1.958 1.957a.15.15 0 0 1-.252-.072l-.493-2.07a.15.15 0 0 0-.111-.112l-2.072-.494a.15.15 0 0 1-.072-.252L14 7c.7-.7 0-1.69 0-2.5\" />\n  <path d=\"m16 20-1-2\" />\n  <path d=\"m20 16-2-1\" />\n  <path d=\"m4 8 2 1\" />\n  <path d=\"m8 4 1 2\" />\n  <path d=\"M9.698 14.19a.15.15 0 0 0 .112.112l2.074.489a.15.15 0 0 1 .072.252L10 17c-.7.7 0 1.69 0 2.5a1 1 0 0 1-5 0 .495.495 0 0 0-.5-.5 1 1 0 0 1 0-5c.81 0 1.8.7 2.5 0l1.956-1.957a.15.15 0 0 1 .252.072z\" />\n</svg>"
+  },
+  {
     "name": "Book",
     "slug": "book",
     "categories": [
@@ -9600,6 +9627,46 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\" />\n  <path d=\"M3 5V19A9 3 0 0 0 21 19V5\" />\n  <path d=\"M3 12A9 3 0 0 0 21 12\" />\n</svg>\n"
   },
   {
+    "name": "DatabaseArrowDown",
+    "slug": "database-arrow-down",
+    "categories": [
+      "devices",
+      "development"
+    ],
+    "tags": [
+      "storage",
+      "memory",
+      "bytes",
+      "server",
+      "export",
+      "download",
+      "backup",
+      "pull",
+      "downsize"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m16 19 3 3 3-3\" />\n  <path d=\"M19 16v6\" />\n  <path d=\"M21 12.536V5\" />\n  <path d=\"M3 12A9 3 0 0 0 15.182 14.806\" />\n  <path d=\"M3 5V19A9 3 0 0 0 13.318 21.968\" />\n  <ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\" />\n</svg>\n"
+  },
+  {
+    "name": "DatabaseArrowUp",
+    "slug": "database-arrow-up",
+    "categories": [
+      "devices",
+      "development"
+    ],
+    "tags": [
+      "storage",
+      "memory",
+      "bytes",
+      "server",
+      "import",
+      "upload",
+      "backup",
+      "push",
+      "upscale"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M19 22v-6\" />\n  <path d=\"M21 12.536V5\" />\n  <path d=\"m22 19-3-3-3 3\" />\n  <path d=\"M3 12A9 3 0 0 0 14.457 14.886\" />\n  <path d=\"M3 5V19A9 3 0 0 0 13.318 21.968\" />\n  <ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\" />\n</svg>\n"
+  },
+  {
     "name": "DatabaseBackup",
     "slug": "database-backup",
     "categories": [
@@ -9623,6 +9690,67 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\" />\n  <path d=\"M3 12a9 3 0 0 0 5 2.69\" />\n  <path d=\"M21 9.3V5\" />\n  <path d=\"M3 5v14a9 3 0 0 0 6.47 2.88\" />\n  <path d=\"M12 12v4h4\" />\n  <path d=\"M13 20a5 5 0 0 0 9-3 4.5 4.5 0 0 0-4.5-4.5c-1.33 0-2.54.54-3.41 1.41L12 16\" />\n</svg>\n"
   },
   {
+    "name": "DatabaseCheck",
+    "slug": "database-check",
+    "categories": [
+      "devices",
+      "development"
+    ],
+    "tags": [
+      "storage",
+      "memory",
+      "bytes",
+      "server",
+      "check",
+      "success",
+      "valid",
+      "verified",
+      "confirmed",
+      "complete"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m16 19 2 2 4-4\" />\n  <path d=\"M21 13.127V5\" />\n  <path d=\"M3 12A9 3 0 0 0 21 12\" />\n  <path d=\"M3 5V19A9 3 0 0 0 13.318 21.968\" />\n  <ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\" />\n</svg>\n"
+  },
+  {
+    "name": "DatabaseMinus",
+    "slug": "database-minus",
+    "categories": [
+      "devices",
+      "development"
+    ],
+    "tags": [
+      "storage",
+      "memory",
+      "bytes",
+      "server",
+      "minus",
+      "remove",
+      "delete",
+      "reduce"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M21 15V5\" />\n  <path d=\"M22 19h-6\" />\n  <path d=\"M3 12A9 3 0 0 0 21 12\" />\n  <path d=\"M3 5V19A9 3 0 0 0 13.318 21.968\" />\n  <ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\" />\n</svg>\n"
+  },
+  {
+    "name": "DatabasePlus",
+    "slug": "database-plus",
+    "categories": [
+      "devices",
+      "development"
+    ],
+    "tags": [
+      "storage",
+      "memory",
+      "bytes",
+      "server",
+      "plus",
+      "add",
+      "create",
+      "insert",
+      "new",
+      "expand"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M19 16v6\" />\n  <path d=\"M21 12.536V5\" />\n  <path d=\"M22 19h-6\" />\n  <path d=\"M3 12A9 3 0 0 0 15.1824 14.8061\" />\n  <path d=\"M3 5V19A9 3 0 0 0 13.318 21.968\" />\n  <ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\" />\n</svg>\n"
+  },
+  {
     "name": "DatabaseSearch",
     "slug": "database-search",
     "categories": [
@@ -9639,6 +9767,30 @@
       "servers"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M21 11.693V5\" />\n  <path d=\"m22 22-1.875-1.875\" />\n  <path d=\"M3 12a9 3 0 0 0 8.697 2.998\" />\n  <path d=\"M3 5v14a9 3 0 0 0 9.28 2.999\" />\n  <circle cx=\"18\" cy=\"18\" r=\"3\" />\n  <ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\" />\n</svg>\n"
+  },
+  {
+    "name": "DatabaseX",
+    "slug": "database-x",
+    "categories": [
+      "devices",
+      "development"
+    ],
+    "tags": [
+      "storage",
+      "memory",
+      "bytes",
+      "server",
+      "x",
+      "error",
+      "failed",
+      "invalid",
+      "rejected",
+      "denied",
+      "clear",
+      "remove",
+      "disconnect"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m17 17 5 5\" />\n  <path d=\"M19.323 13.744A9 3 0 0 0 21 12\" />\n  <path d=\"M21 13.127V5\" />\n  <path d=\"m22 17-5 5\" />\n  <path d=\"M3 12A9 3 0 0 0 13.563 14.954\" />\n  <path d=\"M3 5V19A9 3 0 0 0 13 21.981\" />\n  <ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\" />\n</svg>\n"
   },
   {
     "name": "DatabaseZap",
@@ -20807,6 +20959,35 @@
       "extent"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M13 7 8.7 2.7a2.41 2.41 0 0 0-3.4 0L2.7 5.3a2.41 2.41 0 0 0 0 3.4L7 13\" />\n  <path d=\"m8 6 2-2\" />\n  <path d=\"m18 16 2-2\" />\n  <path d=\"m17 11 4.3 4.3c.94.94.94 2.46 0 3.4l-2.6 2.6c-.94.94-2.46.94-3.4 0L11 17\" />\n  <path d=\"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z\" />\n  <path d=\"m15 5 4 4\" />\n</svg>\n"
+  },
+  {
+    "name": "PencilSparkles",
+    "slug": "pencil-sparkles",
+    "categories": [
+      "design",
+      "cursors",
+      "tools",
+      "text",
+      "photography"
+    ],
+    "tags": [
+      "edit",
+      "ai",
+      "tools",
+      "smart",
+      "create",
+      "draw",
+      "sketch",
+      "draft",
+      "writer",
+      "writing",
+      "stationery",
+      "artist",
+      "magic",
+      "wizard",
+      "magician"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M10 3H8\" />\n  <path d=\"m15.007 5.008 3.987 3.986\" />\n  <path d=\"M20 15v4\" />\n  <path d=\"M21.174 6.813a2.82 2.82 0 0 0-3.986-3.987L3.842 16.175a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z\" />\n  <path d=\"M22 17h-4\" />\n  <path d=\"M4 5v4\" />\n  <path d=\"M6 7H2\" />\n  <path d=\"M9 2v2\" />\n</svg>\n"
   },
   {
     "name": "Pentagon",
