@@ -7373,6 +7373,30 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <circle cx=\"12\" cy=\"12\" r=\"10\" />\n  <path d=\"M7 10h10\" />\n  <path d=\"M7 14h10\" />\n</svg>\n"
   },
   {
+    "name": "CircleEuro",
+    "slug": "circle-euro",
+    "categories": [
+      "shopping",
+      "finance"
+    ],
+    "tags": [
+      "symbol",
+      "economy",
+      "banking",
+      "europe",
+      "€",
+      "euro",
+      "currency",
+      "money",
+      "payment",
+      "coin",
+      "finance",
+      "financial",
+      "exchange"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M15 9.4a4 4 0 1 0 0 5.2\" />\n  <path d=\"M7 12h5\" />\n  <circle cx=\"12\" cy=\"12\" r=\"10\" />\n</svg>\n"
+  },
+  {
     "name": "CircleFadingArrowUp",
     "slug": "circle-fading-arrow-up",
     "categories": [
@@ -10473,7 +10497,7 @@
       "center",
       "."
     ],
-    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <circle cx=\"12.1\" cy=\"12.1\" r=\"1\" />\n</svg>\n"
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <circle cx=\"12\" cy=\"12\" r=\"1\" />\n</svg>\n"
   },
   {
     "name": "Download",
@@ -19976,7 +20000,7 @@
       "alt",
       "button"
     ],
-    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M3 3h6l6 18h6\" />\n  <path d=\"M14 3h7\" />\n</svg>\n"
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M14 3h7\" />\n  <path d=\"M3 3h5.28a1 1 0 0 1 .948.684l5.544 16.632a1 1 0 0 0 .949.684H21\" />\n</svg>\n"
   },
   {
     "name": "Orbit",
@@ -24220,6 +24244,23 @@
       "storage"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M7 2h13a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-5\" />\n  <path d=\"M10 10 2.5 2.5C2 2 2 2.5 2 5v3a2 2 0 0 0 2 2h6z\" />\n  <path d=\"M22 17v-1a2 2 0 0 0-2-2h-1\" />\n  <path d=\"M4 14a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h16.5l1-.5.5.5-8-8H4z\" />\n  <path d=\"M6 18h.01\" />\n  <path d=\"m2 2 20 20\" />\n</svg>\n"
+  },
+  {
+    "name": "ServerPlus",
+    "slug": "server-plus",
+    "categories": [
+      "development",
+      "devices"
+    ],
+    "tags": [
+      "add",
+      "create",
+      "new",
+      "cloud",
+      "storage",
+      "computing"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12.5 10H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v2\" />\n  <path d=\"M16 12h6\" />\n  <path d=\"M19 9v6\" />\n  <path d=\"M22 18v2a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2h8.5\" />\n  <path d=\"M6 18h.01\" />\n  <path d=\"M6 6h.01\" />\n</svg>\n"
   },
   {
     "name": "Settings",
