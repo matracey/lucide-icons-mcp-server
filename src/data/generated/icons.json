@@ -1814,6 +1814,48 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M2 10v3\" />\n  <path d=\"M6 6v11\" />\n  <path d=\"M10 3v18\" />\n  <path d=\"M14 8v7\" />\n  <path d=\"M18 5v13\" />\n  <path d=\"M22 10v3\" />\n</svg>\n"
   },
   {
+    "name": "AudioLinesOff",
+    "slug": "audio-lines-off",
+    "categories": [
+      "multimedia",
+      "communication"
+    ],
+    "tags": [
+      "audio",
+      "sound",
+      "noise",
+      "mute",
+      "silence",
+      "off",
+      "disabled",
+      "inactive",
+      "listen",
+      "hearing",
+      "equalizer",
+      "equaliser",
+      "hertz",
+      "frequency",
+      "wavelength",
+      "vibrate",
+      "sine",
+      "waveform",
+      "synthesizer",
+      "synthesiser",
+      "levels",
+      "track",
+      "music",
+      "playback",
+      "radio",
+      "broadcast",
+      "airwaves",
+      "voice",
+      "vocals",
+      "singer",
+      "song"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M10 10v11\" />\n  <path d=\"M10 3v1.35\" />\n  <path d=\"M14 14v1\" />\n  <path d=\"M14 8v.35\" />\n  <path d=\"M18 5v7.35\" />\n  <path d=\"M2 10v3\" />\n  <path d=\"m2 2 20 20\" />\n  <path d=\"M22 10v3\" />\n  <path d=\"M6 6v11\" />\n</svg>\n"
+  },
+  {
     "name": "AudioLinesX",
     "slug": "audio-lines-x",
     "categories": [
@@ -17061,6 +17103,29 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M3 5h8\" />\n  <path d=\"M3 12h8\" />\n  <path d=\"M3 19h8\" />\n  <path d=\"m15 8 3-3 3 3\" />\n  <path d=\"m15 16 3 3 3-3\" />\n</svg>\n"
   },
   {
+    "name": "ListClock",
+    "slug": "list-clock",
+    "categories": [
+      "text",
+      "time",
+      "notifications"
+    ],
+    "tags": [
+      "history",
+      "log",
+      "clock",
+      "time",
+      "recent",
+      "updated",
+      "revision",
+      "activity",
+      "timestamp",
+      "audit",
+      "list"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M16 13v2.2l1.6 1\" />\n  <path d=\"M3 12h3.458\" />\n  <path d=\"M3 19h3.832\" />\n  <path d=\"M3 5h18\" />\n  <circle cx=\"16\" cy=\"15\" r=\"6\" />\n</svg>\n"
+  },
+  {
     "name": "ListCollapse",
     "slug": "list-collapse",
     "categories": [
@@ -19121,6 +19186,34 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <rect width=\"20\" height=\"15\" x=\"2\" y=\"4\" rx=\"2\" />\n  <rect width=\"8\" height=\"7\" x=\"6\" y=\"8\" rx=\"1\" />\n  <path d=\"M18 8v7\" />\n  <path d=\"M6 19v2\" />\n  <path d=\"M18 19v2\" />\n</svg>\n"
   },
   {
+    "name": "MidiPort",
+    "slug": "midi-port",
+    "categories": [
+      "multimedia",
+      "connectivity",
+      "devices"
+    ],
+    "tags": [
+      "musical instrument digital interface",
+      "port",
+      "connector",
+      "socket",
+      "jack",
+      "din",
+      "5-pin",
+      "audio",
+      "music",
+      "synthesizer",
+      "keyboard",
+      "controller",
+      "interface",
+      "input",
+      "output",
+      "io"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 18h.01\" />\n  <path d=\"M15 2.458V5a1 1 0 01-1 1h-4a1 1 0 01-1-1V2.458\" />\n  <path d=\"M16 16h.01\" />\n  <path d=\"M18 12h.01\" />\n  <path d=\"M6 12h.01\" />\n  <path d=\"M8 16h.01\" />\n  <circle cx=\"12\" cy=\"12\" r=\"10\" />\n</svg>\n"
+  },
+  {
     "name": "Milestone",
     "slug": "milestone",
     "categories": [
@@ -19596,6 +19689,66 @@
       "star"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M18 5h4\" />\n  <path d=\"M20 3v4\" />\n  <path d=\"M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401\" />\n</svg>\n"
+  },
+  {
+    "name": "Mop",
+    "slug": "mop",
+    "categories": [
+      "home",
+      "tools"
+    ],
+    "tags": [
+      "cleaning",
+      "sweeping",
+      "scrubbing",
+      "housekeeping",
+      "hygiene",
+      "sanitation",
+      "chores",
+      "swab",
+      "tidy",
+      "floor",
+      "janitor",
+      "maintenance",
+      "wash",
+      "wipe",
+      "spotless",
+      "pristine",
+      "disinfect"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M10 22c2.761 0 5-1.79 5-4-4.42 0-4.08-5-8.5-5a1 1 0 100 9za3 3 0 01-3-3\" />\n  <path d=\"M12.5 11.5 22 2\" />\n  <path d=\"m6.98 13.02 2.665-2.664a1.21 1.21 0 011.71 0l2.29 2.288a1.21 1.21 0 010 1.712l-2.088 2.087\" />\n</svg>\n"
+  },
+  {
+    "name": "MopSparkles",
+    "slug": "mop-sparkles",
+    "categories": [
+      "home",
+      "tools",
+      "design"
+    ],
+    "tags": [
+      "cleaning",
+      "scrubbing",
+      "sweeping",
+      "ai",
+      "magic",
+      "sparkle",
+      "smart",
+      "automation",
+      "housekeeping",
+      "hygiene",
+      "sanitation",
+      "chores",
+      "swab",
+      "tidy",
+      "floor",
+      "spotless",
+      "pristine",
+      "polish",
+      "sanitize",
+      "disinfect"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M10 22a3 3 0 01-3-3\" />\n  <path d=\"M10 22c2.761 0 5-1.79 5-4-4.42 0-4.08-5-8.5-5a4.501 4.501 0 000 9z\" />\n  <path d=\"M10 3H8\" />\n  <path d=\"M12.5 11.5 22 2\" />\n  <path d=\"M20 13v4\" />\n  <path d=\"M22 15h-4\" />\n  <path d=\"M4 5v4\" />\n  <path d=\"M6 7H2\" />\n  <path d=\"m6.98 13.02 2.665-2.664a1.21 1.21 0 011.71 0l2.29 2.288a1.21 1.21 0 010 1.712l-2.088 2.087\" />\n  <path d=\"M9 2v2\" />\n</svg>\n"
   },
   {
     "name": "Mosque",
@@ -27563,6 +27716,29 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M14 21h1\" />\n  <path d=\"M21 14v1\" />\n  <path d=\"M21 19a2 2 0 0 1-2 2\" />\n  <path d=\"M21 9v1\" />\n  <path d=\"M3 14v1\" />\n  <path d=\"M3 5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2\" />\n  <path d=\"M3 9v1\" />\n  <path d=\"M5 21a2 2 0 0 1-2-2\" />\n  <path d=\"M9 21h1\" />\n</svg>\n"
   },
   {
+    "name": "SquareDimensions",
+    "slug": "square-dimensions",
+    "categories": [
+      "design",
+      "layout"
+    ],
+    "tags": [
+      "ratio",
+      "size",
+      "width",
+      "height",
+      "resize",
+      "scale",
+      "frame",
+      "proportions",
+      "aspect",
+      "bounds",
+      "measurements",
+      "canvas"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <rect width=\"18\" height=\"18\" x=\"3\" y=\"3\" rx=\"2\" />\n  <path d=\"M12 7H7v5\" />\n  <path d=\"M12 17h5v-5\" />\n</svg>\n"
+  },
+  {
     "name": "SquareDivide",
     "slug": "square-divide",
     "categories": [
@@ -28199,6 +28375,39 @@
       "shell"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m7 11 2-2-2-2\" />\n  <path d=\"M11 13h4\" />\n  <rect width=\"18\" height=\"18\" x=\"3\" y=\"3\" rx=\"2\" ry=\"2\" />\n</svg>\n"
+  },
+  {
+    "name": "SquareText",
+    "slug": "square-text",
+    "categories": [
+      "text",
+      "shapes",
+      "development"
+    ],
+    "tags": [
+      "text",
+      "paragraph",
+      "content",
+      "note",
+      "document",
+      "body",
+      "copy",
+      "article",
+      "square",
+      "container",
+      "block",
+      "card",
+      "placeholder",
+      "log",
+      "page",
+      "paper",
+      "sheet",
+      "list",
+      "script",
+      "code",
+      "editor"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <rect width=\"18\" height=\"18\" x=\"3\" y=\"3\" rx=\"2\" />\n  <path d=\"M7 8h8\" />\n  <path d=\"M7 12h10\" />\n  <path d=\"M7 16h6\" />\n</svg>\n"
   },
   {
     "name": "SquareUser",
@@ -31237,6 +31446,31 @@
       "interface"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <circle cx=\"10\" cy=\"7\" r=\"1\" />\n  <circle cx=\"4\" cy=\"20\" r=\"1\" />\n  <path d=\"M4.7 19.3 19 5\" />\n  <path d=\"m21 3-3 1 2 2Z\" />\n  <path d=\"M9.26 7.68 5 12l2 5\" />\n  <path d=\"m10 14 5 2 3.5-3.5\" />\n  <path d=\"m18 12 1-1 1 1-1 1Z\" />\n</svg>\n"
+  },
+  {
+    "name": "UsbCPort",
+    "slug": "usb-c-port",
+    "categories": [
+      "devices",
+      "multimedia",
+      "home",
+      "gaming"
+    ],
+    "tags": [
+      "universal",
+      "serial",
+      "bus",
+      "controller",
+      "connector",
+      "interface",
+      "socket",
+      "plug",
+      "slot",
+      "data",
+      "input",
+      "output"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M6 12h12\" />\n  <rect x=\"2\" y=\"8\" width=\"20\" height=\"8\" rx=\"4\" />\n</svg>\n"
   },
   {
     "name": "User",
