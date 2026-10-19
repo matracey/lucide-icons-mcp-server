@@ -1944,6 +1944,44 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M2 13a2 2 0 0 0 2-2V7a2 2 0 0 1 4 0v13a2 2 0 0 0 4 0V4a2 2 0 0 1 4 0v13a2 2 0 0 0 4 0v-4a2 2 0 0 1 2-2\" />\n</svg>\n"
   },
   {
+    "name": "Avocado",
+    "slug": "avocado",
+    "categories": [
+      "food-beverage"
+    ],
+    "tags": [
+      "fruit",
+      "snack",
+      "meal",
+      "lunch",
+      "ingredient",
+      "cooking",
+      "cookery",
+      "kitchen",
+      "cuisine",
+      "eating",
+      "healthy",
+      "nutrition",
+      "diet",
+      "guacamole",
+      "mexican",
+      "green",
+      "pit",
+      "seed",
+      "half",
+      "produce",
+      "vegetarian",
+      "vegan",
+      "grocery",
+      "supermarket",
+      "toast",
+      "superfood",
+      "plant based",
+      "ripe"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M13.465 3.464a5 5 0 017.07 0 5 5 0 010 7.072c-1.204 1.203-2.38 2.89-2.614 4.577A8 8 0 118.886 6.08c1.687-.235 3.375-1.41 4.579-2.615\" />\n  <circle cx=\"10\" cy=\"14\" r=\"3\" />\n</svg>\n"
+  },
+  {
     "name": "Award",
     "slug": "award",
     "categories": [
@@ -2026,6 +2064,46 @@
       "childhood"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M4 10a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v10a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2z\" />\n  <path d=\"M8 10h8\" />\n  <path d=\"M8 18h8\" />\n  <path d=\"M8 22v-6a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v6\" />\n  <path d=\"M9 6V4a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2\" />\n</svg>\n"
+  },
+  {
+    "name": "Bacon",
+    "slug": "bacon",
+    "categories": [
+      "food-beverage"
+    ],
+    "tags": [
+      "rashers",
+      "smoked",
+      "streaky",
+      "crispy",
+      "meat",
+      "fast food",
+      "junk food",
+      "snack",
+      "dish",
+      "restaurant",
+      "brunch",
+      "lunch",
+      "meal",
+      "savory",
+      "savoury",
+      "cookery",
+      "cooking",
+      "grilled",
+      "barbecue",
+      "barbeque",
+      "bbq",
+      "pig",
+      "pork",
+      "breakfast",
+      "cured",
+      "butcher",
+      "sandwich",
+      "protein",
+      "grocery",
+      "kitchen"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M2.795 16.804c-.789-.79-1.09-2.018-.442-2.928 1.933-2.713 4.414-1.05 6.145-5.378 1.868-4.67 4.608-2.366 6.592-6.107.218-.412.78-.53 1.11-.2l5.005 5.005c.789.79 1.09 2.018.442 2.928-1.933 2.713-4.414 1.05-6.145 5.378-1.868 4.67-4.608 2.366-6.591 6.107-.22.412-.78.53-1.11.2z\" />\n  <path d=\"M4.5 18.5c2-5 5-2 7-7s5-2 7-7\" />\n</svg>\n"
   },
   {
     "name": "Badge",
@@ -2684,7 +2762,7 @@
       "winery",
       "vineyard"
     ],
-    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M10 3a41 41 0 000 18\" />\n  <path d=\"M14 3a41 41 0 010 18\" />\n  <path d=\"M16.997 21a2 2 0 001.68-.92 15.25 15.25 0 000-16.16 2 2 0 00-1.68-.92h-10a2 2 0 00-1.681.92 15.25 15.25 0 000 16.16 2 2 0 001.681.92z\" />\n  <path d=\"M3.54 16h16.914\" />\n  <path d=\"M3.54 8h16.914\" />\n</svg>\n"
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M10.5 2a34.5 34.5 0 000 20\" />\n  <path d=\"M13.5 2a34.5 34.5 0 010 20\" />\n  <path d=\"M4.67 17h14.67\" />\n  <path d=\"M4.67 7h14.67\" />\n  <path d=\"M6.23 3.06a19 19 0 000 17.88A2 2 0 008 22h8a2 2 0 001.77-1.06 19 19 0 000-17.88A2 2 0 0016 2H8a2 2 0 00-1.77 1.06\" />\n</svg>\n"
   },
   {
     "name": "Baseline",
@@ -2987,6 +3065,30 @@
       "drink"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M13 13v5\" />\n  <path d=\"M17 11.47V8\" />\n  <path d=\"M17 11h1a3 3 0 0 1 2.745 4.211\" />\n  <path d=\"m2 2 20 20\" />\n  <path d=\"M5 8v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-3\" />\n  <path d=\"M7.536 7.535C6.766 7.649 6.154 8 5.5 8a2.5 2.5 0 0 1-1.768-4.268\" />\n  <path d=\"M8.727 3.204C9.306 2.767 9.885 2 11 2c1.56 0 2 1.5 3 1.5s1.72-.5 2.5-.5a1 1 0 1 1 0 5c-.78 0-1.5-.5-2.5-.5a3.149 3.149 0 0 0-.842.12\" />\n  <path d=\"M9 14.6V18\" />\n</svg>\n"
+  },
+  {
+    "name": "BelarusianRuble",
+    "slug": "belarusian-ruble",
+    "categories": [
+      "finance",
+      "shopping",
+      "account"
+    ],
+    "tags": [
+      "currency",
+      "money",
+      "payment",
+      "byn",
+      "iso4217",
+      "fiat",
+      "prices",
+      "localization",
+      "banking",
+      "checkout",
+      "wallet",
+      "exchange-rate"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M3 16 L13 16\" />\n  <path d=\"M6 12h9a4 4 0 0 1 0 8H7a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h7\" />\n</svg>\n"
   },
   {
     "name": "Bell",
@@ -5738,8 +5840,8 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M 19 3 L 5 3\" />\n  <path d=\"M 21 13 L 21 5\" />\n  <path d=\"M 21 5 A2 2 0 0 0 19 3\" />\n  <path d=\"M 3 19 A2 2 0 0 0 5 21\" />\n  <path d=\"M 3 5 L 3 19\" />\n  <path d=\"M 5 3 A2 2 0 0 0 3 5\" />\n  <path d=\"m16 19 2 2 4-4\" />\n  <path d=\"M16 2v3\" />\n  <path d=\"M3 9h18\" />\n  <path d=\"M5 21 L12.5 21\" />\n  <path d=\"M8 2v3\" />\n</svg>\n"
   },
   {
-    "name": "CalendarChevronsRight",
-    "slug": "calendar-chevrons-right",
+    "name": "CalendarChevronsLeft",
+    "slug": "calendar-chevrons-left",
     "categories": [
       "time",
       "arrows",
@@ -5748,8 +5850,6 @@
     "tags": [
       "navigation",
       "arrow",
-      "right",
-      "chevron",
       "direction",
       "symbol",
       "pointer",
@@ -5760,8 +5860,32 @@
       "day",
       "month",
       "year",
-      "events",
-      "chevrons"
+      "events"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m11 21-3-3 3-3\" />\n  <path d=\"M16 2v3\" />\n  <path d=\"M21 9H3\" />\n  <path d=\"M3 11.5V5a2 2 0 012-2h14a2 2 0 012 2v14a2 2 0 01-2 2h-4\" />\n  <path d=\"m5 21-3-3 3-3\" />\n  <path d=\"M8 2v3\" />\n</svg>\n"
+  },
+  {
+    "name": "CalendarChevronsRight",
+    "slug": "calendar-chevrons-right",
+    "categories": [
+      "time",
+      "arrows",
+      "navigation"
+    ],
+    "tags": [
+      "navigation",
+      "arrow",
+      "direction",
+      "symbol",
+      "pointer",
+      "indicator",
+      "previous",
+      "menu",
+      "date",
+      "day",
+      "month",
+      "year",
+      "events"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m13 21 3-3-3-3\" />\n  <path d=\"M16 2v3\" />\n  <path d=\"m19 21 3-3-3-3\" />\n  <path d=\"M21 11.5V5a2 2 0 00-2-2H5a2 2 0 00-2 2v14a2 2 0 002 2h4\" />\n  <path d=\"M3 9h18\" />\n  <path d=\"M8 2v3\" />\n</svg>\n"
   },
@@ -6595,6 +6719,45 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m12.309 6.652 4.797 2.401a1 1 0 0 1 .447 1.341l-.501 1.001.605.605h2.725a1 1 0 0 1 .894 1.447l-.724 1.448\" />\n  <path d=\"m15.166 15.166-.719 1.439a1 1 0 0 1-1.342.447L3.61 12.3a2.92 2.92 0 0 1-1.3-3.91L3.69 5.6a2.9 2.9 0 0 1 .873-1.037\" />\n  <path d=\"M2 19h3.76a2 2 0 0 0 1.8-1.1l1.441-2.902\" />\n  <path d=\"m2 2 20 20\" />\n  <path d=\"M2 21v-4\" />\n  <path d=\"M7 9h.01\" />\n</svg>\n"
   },
   {
+    "name": "Certificate",
+    "slug": "certificate",
+    "categories": [
+      "connectivity",
+      "security"
+    ],
+    "tags": [
+      "award",
+      "ribbon",
+      "medal",
+      "achievement",
+      "pinned",
+      "badge",
+      "recognition",
+      "laurel",
+      "commendation",
+      "diploma",
+      "official",
+      "proof",
+      "fact",
+      "verified",
+      "license",
+      "warrant",
+      "authorization",
+      "legal",
+      "ownership",
+      "credential",
+      "ssl",
+      "tls",
+      "security",
+      "trust",
+      "cybersecurity",
+      "authority",
+      "graduation",
+      "study"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 10H6\" />\n  <path d=\"m20.69 15.479 1.29 4.88a.5.5 0 01-.698.591l-1.843-.849a1 1 0 00-.879.001l-1.846.85a.5.5 0 01-.692-.593l1.29-4.88\" />\n  <path d=\"M22 6.675V6a2 2 0 00-2-2H4a2 2 0 00-2 2v12a2 2 0 002 2h8\" />\n  <path d=\"M6 14h4\" />\n  <circle cx=\"19\" cy=\"13\" r=\"3\" />\n</svg>\n"
+  },
+  {
     "name": "ChartArea",
     "slug": "chart-area",
     "categories": [
@@ -7122,7 +7285,7 @@
       "board game",
       "stalemate"
     ],
-    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M4 20a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v1a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1z\" />\n  <path d=\"m12.474 5.943 1.567 5.34a1 1 0 0 0 1.75.328l2.616-3.402\" />\n  <path d=\"m20 9-3 9\" />\n  <path d=\"m5.594 8.209 2.615 3.403a1 1 0 0 0 1.75-.329l1.567-5.34\" />\n  <path d=\"M7 18 4 9\" />\n  <circle cx=\"12\" cy=\"4\" r=\"2\" />\n  <circle cx=\"20\" cy=\"7\" r=\"2\" />\n  <circle cx=\"4\" cy=\"7\" r=\"2\" />\n</svg>\n"
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m10.68 5.499-.996 4.982a.65.65 0 01-1.131.295L5.885 7.663\" />\n  <path d=\"m13.32 5.5.995 4.98a.65.65 0 001.131.296l2.668-3.113\" />\n  <path d=\"M20.428 8.952 17.5 18\" />\n  <path d=\"M4 20a2 2 0 012-2h12a2 2 0 012 2v1a1 1 0 01-1 1H5a1 1 0 01-1-1z\" />\n  <path d=\"M6.5 18 3.571 8.952\" />\n  <circle cx=\"12\" cy=\"4\" r=\"2\" />\n  <circle cx=\"20\" cy=\"7\" r=\"2\" />\n  <circle cx=\"4\" cy=\"7\" r=\"2\" />\n</svg>\n"
   },
   {
     "name": "ChessRook",
@@ -7897,6 +8060,30 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 2a10 10 0 0 1 7.38 16.75\" />\n  <path d=\"m16 12-4-4-4 4\" />\n  <path d=\"M12 16V8\" />\n  <path d=\"M2.5 8.875a10 10 0 0 0-.5 3\" />\n  <path d=\"M2.83 16a10 10 0 0 0 2.43 3.4\" />\n  <path d=\"M4.636 5.235a10 10 0 0 1 .891-.857\" />\n  <path d=\"M8.644 21.42a10 10 0 0 0 7.631-.38\" />\n</svg>\n"
   },
   {
+    "name": "CircleFadingPlay",
+    "slug": "circle-fading-play",
+    "categories": [
+      "multimedia",
+      "social"
+    ],
+    "tags": [
+      "short clips",
+      "shorts",
+      "reels",
+      "stories",
+      "video",
+      "highlights",
+      "social media",
+      "content",
+      "preview",
+      "teaser",
+      "clip",
+      "short form",
+      "vertical video"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 2a10 10 0 0 1 7.38 16.75\" />\n  <path d=\"M9 9.003a1 1 0 0 1 1.517-.859l4.997 2.997a1 1 0 0 1 0 1.718l-4.997 2.997A1 1 0 0 1 9 14.996z\" />\n  <path d=\"M2.5 8.875a10 10 0 0 0-.5 3\" />\n  <path d=\"M2.83 16a10 10 0 0 0 2.43 3.4\" />\n  <path d=\"M4.636 5.235a10 10 0 0 1 .891-.857\" />\n  <path d=\"M8.644 21.42a10 10 0 0 0 7.631-.38\" />\n</svg>\n"
+  },
+  {
     "name": "CircleFadingPlus",
     "slug": "circle-fading-plus",
     "categories": [
@@ -8318,6 +8505,7 @@
     "tags": [
       "cancel",
       "close",
+      "cross",
       "delete",
       "remove",
       "times",
@@ -10000,6 +10188,40 @@
       "ghz"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 20v2\" />\n  <path d=\"M12 2v2\" />\n  <path d=\"M17 20v2\" />\n  <path d=\"M17 2v2\" />\n  <path d=\"M2 12h2\" />\n  <path d=\"M2 17h2\" />\n  <path d=\"M2 7h2\" />\n  <path d=\"M20 12h2\" />\n  <path d=\"M20 17h2\" />\n  <path d=\"M20 7h2\" />\n  <path d=\"M7 20v2\" />\n  <path d=\"M7 2v2\" />\n  <rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"2\" />\n  <rect x=\"8\" y=\"8\" width=\"8\" height=\"8\" rx=\"1\" />\n</svg>\n"
+  },
+  {
+    "name": "CpuAi",
+    "slug": "cpu-ai",
+    "categories": [
+      "devices",
+      "development"
+    ],
+    "tags": [
+      "ai",
+      "artificial intelligence",
+      "machine learning",
+      "neural network",
+      "automation",
+      "intelligence",
+      "generative",
+      "assistant",
+      "chatbot",
+      "llm",
+      "deep learning",
+      "inference",
+      "training",
+      "mlops",
+      "model",
+      "predictive",
+      "on-device",
+      "edge",
+      "api",
+      "service",
+      "cognitive",
+      "processor",
+      "chip"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 20v2\" />\n  <path d=\"M12 2v2\" />\n  <path d=\"M16 9v6\" />\n  <path d=\"M17 20v2\" />\n  <path d=\"M17 2v2\" />\n  <path d=\"M2 12h2\" />\n  <path d=\"M2 17h2\" />\n  <path d=\"M2 7h2\" />\n  <path d=\"M20 12h2\" />\n  <path d=\"M20 17h2\" />\n  <path d=\"M20 7h2\" />\n  <path d=\"M7 20v2\" />\n  <path d=\"M7 2v2\" />\n  <path d=\"M8 13h4\" />\n  <path d=\"M8 15v-4a2 2 0 014 0v4\" />\n  <rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"2\" />\n</svg>\n"
   },
   {
     "name": "CreativeCommons",
@@ -11687,6 +11909,38 @@
       "bad egg"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m2 2 20 20\" />\n  <path d=\"M20 14.347V14c0-6-4-12-8-12-1.078 0-2.157.436-3.157 1.19\" />\n  <path d=\"M6.206 6.21C4.871 8.4 4 11.2 4 14a8 8 0 0 0 14.568 4.568\" />\n</svg>\n"
+  },
+  {
+    "name": "EighthNote",
+    "slug": "eighth-note",
+    "categories": [
+      "multimedia",
+      "files"
+    ],
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "note",
+      "quaver"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m19 6-5.2-3.9a.5.5 0 0 0-.8.4V18\" />\n  <circle cx=\"9\" cy=\"18\" r=\"4\" />\n</svg>\n"
+  },
+  {
+    "name": "EighthNotes",
+    "slug": "eighth-notes",
+    "categories": [
+      "multimedia",
+      "files"
+    ],
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "notes",
+      "quavers"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M21 16V3a1 1 0 0 0-1.28-.96l-10 2.917a1 1 0 0 0-.72.96V19\" />\n  <circle cx=\"18\" cy=\"16\" r=\"3\" />\n  <circle cx=\"6\" cy=\"19\" r=\"3\" />\n</svg>\n"
   },
   {
     "name": "Eject",
@@ -14142,6 +14396,58 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z\" />\n  <path d=\"M12 10v6\" />\n  <path d=\"m9 13 3-3 3 3\" />\n</svg>\n"
   },
   {
+    "name": "FolderUser",
+    "slug": "folder-user",
+    "categories": [
+      "files",
+      "account",
+      "social",
+      "people",
+      "security"
+    ],
+    "tags": [
+      "directory",
+      "profile",
+      "person",
+      "personal",
+      "contact",
+      "document",
+      "account",
+      "individual",
+      "home folder",
+      "shared",
+      "access",
+      "owner"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M10.254 20H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2V9.255\" />\n  <path d=\"M22 22a4 4 0 0 0-8 0\" />\n  <circle cx=\"18\" cy=\"15\" r=\"3\" />\n</svg>\n"
+  },
+  {
+    "name": "FolderUsers",
+    "slug": "folder-users",
+    "categories": [
+      "files",
+      "account",
+      "social",
+      "people",
+      "security"
+    ],
+    "tags": [
+      "directory",
+      "profile",
+      "shared",
+      "people",
+      "document",
+      "accounts",
+      "group",
+      "team",
+      "permission",
+      "access",
+      "collaboration",
+      "organization"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M5.254 20H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2V9.255\" />\n  <circle cx=\"13\" cy=\"15\" r=\"3\" />\n  <path d=\"M17 22a4 4 0 0 0-8 0\" />\n  <path d=\"M22 22A4 4 0 0 0 20.24 18.686 1 1 0 0 1 20.1 17.143 3 3 0 0 0 19.5 12.402\" />\n</svg>\n"
+  },
+  {
     "name": "FolderX",
     "slug": "folder-x",
     "categories": [
@@ -15255,6 +15561,33 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M22 5V2l-5.89 5.89\" />\n  <circle cx=\"16.6\" cy=\"15.89\" r=\"3\" />\n  <circle cx=\"8.11\" cy=\"7.4\" r=\"3\" />\n  <circle cx=\"12.35\" cy=\"11.65\" r=\"3\" />\n  <circle cx=\"13.91\" cy=\"5.85\" r=\"3\" />\n  <circle cx=\"18.15\" cy=\"10.09\" r=\"3\" />\n  <circle cx=\"6.56\" cy=\"13.2\" r=\"3\" />\n  <circle cx=\"10.8\" cy=\"17.44\" r=\"3\" />\n  <circle cx=\"5\" cy=\"19\" r=\"3\" />\n</svg>\n"
   },
   {
+    "name": "GraphStar",
+    "slug": "graph-star",
+    "categories": [
+      "development",
+      "charts"
+    ],
+    "tags": [
+      "mind map",
+      "network",
+      "hub",
+      "nodes",
+      "links",
+      "connections",
+      "relationships",
+      "dependencies",
+      "bonds",
+      "structure",
+      "topology",
+      "cluster",
+      "thoughts",
+      "ideas",
+      "concepts",
+      "molecule"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m12.342 9.316 1.764-3.527\" />\n  <path d=\"m12.59 14.545 2.35 3.759\" />\n  <path d=\"m13.982 12.332 4.03.447\" />\n  <path d=\"M5.414 17.586 8.88 14.12\" />\n  <path d=\"M9.025 9.742 5.317 5.505\" />\n  <circle cx=\"11\" cy=\"12\" r=\"3\" />\n  <circle cx=\"15\" cy=\"4\" r=\"2\" />\n  <circle cx=\"16\" cy=\"20\" r=\"2\" />\n  <circle cx=\"20\" cy=\"13\" r=\"2\" />\n  <circle cx=\"4\" cy=\"19\" r=\"2\" />\n  <circle cx=\"4\" cy=\"4\" r=\"2\" />\n</svg>\n"
+  },
+  {
     "name": "Grid2x2",
     "slug": "grid-2x2",
     "categories": [
@@ -15526,6 +15859,50 @@
       "noise"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m11.9 12.1 4.514-4.514\" />\n  <path d=\"M20.1 2.3a1 1 0 0 0-1.4 0l-1.114 1.114A2 2 0 0 0 17 4.828v1.344a2 2 0 0 1-.586 1.414A2 2 0 0 1 17.828 7h1.344a2 2 0 0 0 1.414-.586L21.7 5.3a1 1 0 0 0 0-1.4z\" />\n  <path d=\"m6 16 2 2\" />\n  <path d=\"M8.23 9.85A3 3 0 0 1 11 8a5 5 0 0 1 5 5 3 3 0 0 1-1.85 2.77l-.92.38A2 2 0 0 0 12 18a4 4 0 0 1-4 4 6 6 0 0 1-6-6 4 4 0 0 1 4-4 2 2 0 0 0 1.85-1.23z\" />\n</svg>\n"
+  },
+  {
+    "name": "GuitarElectric",
+    "slug": "guitar-electric",
+    "categories": [
+      "multimedia"
+    ],
+    "tags": [
+      "acoustic",
+      "instrument",
+      "strings",
+      "riff",
+      "rock",
+      "band",
+      "country",
+      "concert",
+      "performance",
+      "play",
+      "lead",
+      "loud",
+      "music",
+      "audio",
+      "sound",
+      "noise"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m12.172 11.828 4.242-4.242\" />\n  <path d=\"M16.414 7.586A2 2 0 0017 6.172V5a2 2 0 011.177-1.823L20.59 2.09a1 1 0 011.32 1.32l-1.088 2.412A2 2 0 0119 7h-1a2 2 0 00-1.586.586\" />\n  <path d=\"m6 16 2 2\" />\n  <path d=\"M8.23 9.85a3 3 0 011.28-1.454 1 1 0 011.496.815 4 4 0 003.783 3.783 1 1 0 01.815 1.496 3 3 0 01-1.454 1.28l-.92.38A2 2 0 0012 18a4 4 0 01-4 4 6 6 0 01-6-6 4 4 0 014-4 2 2 0 001.85-1.23z\" />\n</svg>\n"
+  },
+  {
+    "name": "HalfNote",
+    "slug": "half-note",
+    "categories": [
+      "multimedia",
+      "files"
+    ],
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "note",
+      "crotchet",
+      "minim",
+      "quarter note"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <circle cx=\"12\" cy=\"18\" r=\"4\" />\n  <path d=\"M16 18V2\" />\n</svg>\n"
   },
   {
     "name": "Ham",
@@ -17973,6 +18350,26 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M13.433 2a1 1 0 0 1 .824.448 18 18 0 0 1 0 19.104 1 1 0 0 1-.824.448h-2.866a1 1 0 0 1-.824-.448 18 18 0 0 1 0-19.104A1 1 0 0 1 10.567 2z\" />\n</svg>\n"
   },
   {
+    "name": "LetterSpacing",
+    "slug": "letter-spacing",
+    "categories": [
+      "text"
+    ],
+    "tags": [
+      "tracking",
+      "kerning",
+      "design",
+      "lettering",
+      "text",
+      "letters",
+      "characters",
+      "font",
+      "typography",
+      "formatting"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M15 14H9\" />\n  <path d=\"M21 3v18\" />\n  <path d=\"M3 3v18\" />\n  <path d=\"m8 16 3.453-7.648a.6.6 0 011.094.001L16 16\" />\n</svg>\n"
+  },
+  {
     "name": "Letters",
     "slug": "letters",
     "categories": [
@@ -18248,6 +18645,28 @@
       "end"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 9v12\" />\n  <circle cx=\"12\" cy=\"6\" r=\"3\" />\n</svg>\n"
+  },
+  {
+    "name": "LineHeight",
+    "slug": "line-height",
+    "categories": [
+      "text"
+    ],
+    "tags": [
+      "leading",
+      "text",
+      "letters",
+      "characters",
+      "font",
+      "typography",
+      "spacing",
+      "paragraph",
+      "formatting",
+      "editor",
+      "readability",
+      "typesetting"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M15 14H9\" />\n  <path d=\"M21 21H3\" />\n  <path d=\"M21 3H3\" />\n  <path d=\"m8 16 3.453-7.648a.6.6 0 011.094.001L16 16\" />\n</svg>\n"
   },
   {
     "name": "LineSquiggle",
@@ -19992,6 +20411,35 @@
       "response"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719\" />\n  <path d=\"m10 15-3-3 3-3\" />\n  <path d=\"M7 12h8a2 2 0 0 1 2 2v1\" />\n</svg>\n"
+  },
+  {
+    "name": "MessageCircleText",
+    "slug": "message-circle-text",
+    "categories": [
+      "social"
+    ],
+    "tags": [
+      "comment",
+      "chat",
+      "conversation",
+      "dialog",
+      "feedback",
+      "speech",
+      "bubble",
+      "sms",
+      "texting",
+      "messaging",
+      "dm",
+      "discussion",
+      "thread",
+      "transcript",
+      "written",
+      "writing",
+      "lines",
+      "support",
+      "chatbot"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M3.086 17.509a2 2 0 00-.094-1.167 10 10 0 114.777 4.719 2 2 0 00-1.099-.092l-3.413.998a1 1 0 01-1.236-1.168z\" />\n  <path d=\"M8 12h9\" />\n  <path d=\"M8 16h5\" />\n  <path d=\"M8 8h7\" />\n</svg>\n"
   },
   {
     "name": "MessageCircleWarning",
@@ -21750,64 +22198,6 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 2v20\" />\n  <path d=\"m8 18 4 4 4-4\" />\n  <path d=\"m8 6 4-4 4 4\" />\n</svg>\n"
   },
   {
-    "name": "Music",
-    "slug": "music",
-    "categories": [
-      "multimedia",
-      "files"
-    ],
-    "tags": [
-      "note",
-      "quaver",
-      "eighth note"
-    ],
-    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M9 18V5l12-2v13\" />\n  <circle cx=\"6\" cy=\"18\" r=\"3\" />\n  <circle cx=\"18\" cy=\"16\" r=\"3\" />\n</svg>\n"
-  },
-  {
-    "name": "Music2",
-    "slug": "music-2",
-    "categories": [
-      "multimedia",
-      "files"
-    ],
-    "tags": [
-      "quaver",
-      "eighth note",
-      "note"
-    ],
-    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <circle cx=\"8\" cy=\"18\" r=\"4\" />\n  <path d=\"M12 18V2l7 4\" />\n</svg>\n"
-  },
-  {
-    "name": "Music3",
-    "slug": "music-3",
-    "categories": [
-      "multimedia",
-      "files"
-    ],
-    "tags": [
-      "crotchet",
-      "minim",
-      "quarter note",
-      "half note",
-      "note"
-    ],
-    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <circle cx=\"12\" cy=\"18\" r=\"4\" />\n  <path d=\"M16 18V2\" />\n</svg>\n"
-  },
-  {
-    "name": "Music4",
-    "slug": "music-4",
-    "categories": [
-      "multimedia",
-      "files"
-    ],
-    "tags": [
-      "semiquaver",
-      "sixteenth note",
-      "note"
-    ],
-    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M9 18V5l12-2v13\" />\n  <path d=\"m9 9 12-2\" />\n  <circle cx=\"6\" cy=\"18\" r=\"3\" />\n  <circle cx=\"18\" cy=\"16\" r=\"3\" />\n</svg>\n"
-  },
-  {
     "name": "Navigation",
     "slug": "navigation",
     "categories": [
@@ -23396,6 +23786,36 @@
       "marketing"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <line x1=\"19\" x2=\"5\" y1=\"5\" y2=\"19\" />\n  <circle cx=\"6.5\" cy=\"6.5\" r=\"2.5\" />\n  <circle cx=\"17.5\" cy=\"17.5\" r=\"2.5\" />\n</svg>\n"
+  },
+  {
+    "name": "PerfumeBottle",
+    "slug": "perfume-bottle",
+    "categories": [
+      "shopping",
+      "travel"
+    ],
+    "tags": [
+      "eau de parfum",
+      "eau de toilette",
+      "essence",
+      "aftershave",
+      "cologne",
+      "aroma",
+      "fragrance",
+      "smell",
+      "scent",
+      "bouquet",
+      "gift",
+      "duty free",
+      "spray",
+      "puff",
+      "atomizer",
+      "mist",
+      "beauty",
+      "skincare",
+      "cosmetics"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M 5 22 H 11.072\" />\n  <path d=\"M15 5 C 23 4 23.328 12.676 20 14.536\" />\n  <path d=\"M15.802 10.308 C 14.776 9.465 14 8.496 14 7\" />\n  <path d=\"M2 2h.01\" />\n  <path d=\"M2 7h.01\" />\n  <path d=\"M5 4.5h.01\" />\n  <path d=\"M8.127 22 A 8 8 0 0 1 4 15 3 3 0 0 1 4.879 12.879C 6.879 10.879 10 10 10 7\" />\n  <circle cx=\"18\" cy=\"18\" r=\"4\" />\n  <rect x=\"9\" y=\"2\" width=\"6\" height=\"5\" rx=\"1\" />\n</svg>\n"
   },
   {
     "name": "PersonStanding",
@@ -28637,6 +29057,22 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M7 18v-6a5 5 0 1 1 10 0v6\" />\n  <path d=\"M5 21a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-1a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2z\" />\n  <path d=\"M21 12h1\" />\n  <path d=\"M18.5 4.5 18 5\" />\n  <path d=\"M2 12h1\" />\n  <path d=\"M12 2v1\" />\n  <path d=\"m4.929 4.929.707.707\" />\n  <path d=\"M12 12v6\" />\n</svg>\n"
   },
   {
+    "name": "SixteenthNotes",
+    "slug": "sixteenth-notes",
+    "categories": [
+      "multimedia",
+      "files"
+    ],
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "notes",
+      "semiquavers"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M21 16V3a1 1 0 0 0-1.28-.96l-10 2.917a1 1 0 0 0-.72.96V19\" />\n  <path d=\"M21 6 9 9.5\" />\n  <circle cx=\"18\" cy=\"16\" r=\"3\" />\n  <circle cx=\"6\" cy=\"19\" r=\"3\" />\n</svg>\n"
+  },
+  {
     "name": "SkipBack",
     "slug": "skip-back",
     "categories": [
@@ -28782,6 +29218,30 @@
       "screen"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <rect width=\"7\" height=\"12\" x=\"2\" y=\"6\" rx=\"1\" />\n  <path d=\"M13 8.32a7.43 7.43 0 0 1 0 7.36\" />\n  <path d=\"M16.46 6.21a11.76 11.76 0 0 1 0 11.58\" />\n  <path d=\"M19.91 4.1a15.91 15.91 0 0 1 .01 15.8\" />\n</svg>\n"
+  },
+  {
+    "name": "SmartphoneUserRound",
+    "slug": "smartphone-user-round",
+    "categories": [
+      "account",
+      "devices",
+      "people"
+    ],
+    "tags": [
+      "phone",
+      "cellphone",
+      "device",
+      "mobile",
+      "person",
+      "profile",
+      "account",
+      "avatar",
+      "contact",
+      "identity",
+      "owner",
+      "authentication"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M10 22H6a2 2 0 01-2-2V4a2 2 0 012-2h10a2 2 0 012 2v4\" />\n  <path d=\"M11 18h.01\" />\n  <path d=\"M22 22a4 4 0 00-8 0\" />\n  <circle cx=\"18\" cy=\"15\" r=\"3\" />\n</svg>\n"
   },
   {
     "name": "Snail",
@@ -32875,6 +33335,39 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M7 12h13a1 1 0 0 1 1 1 5 5 0 0 1-5 5h-.598a.5.5 0 0 0-.424.765l1.544 2.47a.5.5 0 0 1-.424.765H5.402a.5.5 0 0 1-.424-.765L7 18\" />\n  <path d=\"M8 18a5 5 0 0 1-5-5V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v8\" />\n</svg>\n"
   },
   {
+    "name": "Tombstone",
+    "slug": "tombstone",
+    "categories": [
+      "gaming",
+      "navigation",
+      "people",
+      "development"
+    ],
+    "tags": [
+      "grave",
+      "gravestone",
+      "headstone",
+      "cemetery",
+      "graveyard",
+      "death",
+      "memorial",
+      "funeral",
+      "halloween",
+      "rip",
+      "obituary",
+      "deceased",
+      "epitaph",
+      "mourning",
+      "bereavement",
+      "condolence",
+      "deprecated",
+      "retired",
+      "archived",
+      "decommissioned"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M11 10h2\" />\n  <path d=\"M19 21V10a7 7 0 00-14 0v11\" />\n  <path d=\"M2 21h20\" />\n  <path d=\"M9 14h6\" />\n</svg>\n"
+  },
+  {
     "name": "ToolCase",
     "slug": "tool-case",
     "categories": [
@@ -34497,6 +34990,33 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2\" />\n  <path d=\"M16 3.128a4 4 0 0 1 0 7.744\" />\n  <path d=\"M22 21v-2a4 4 0 0 0-3-3.87\" />\n  <circle cx=\"9\" cy=\"7\" r=\"4\" />\n</svg>\n"
   },
   {
+    "name": "UsersCollaboration",
+    "slug": "users-collaboration",
+    "categories": [
+      "account",
+      "people",
+      "communication"
+    ],
+    "tags": [
+      "group",
+      "people",
+      "collaboration",
+      "users",
+      "team",
+      "communication",
+      "cooperative",
+      "workspace",
+      "peer-to-peer",
+      "p2p",
+      "shared",
+      "delegation",
+      "handoff",
+      "coauthor",
+      "profiles"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12.925 3.047a9 9 0 017.616 6.11\" />\n  <path d=\"M13 22a2 2 0 012-2h4a2 2 0 012 2\" />\n  <path d=\"M3 12a2 2 0 012-2h4a2 2 0 012 2\" />\n  <path d=\"M3.889 15.9a9 9 0 005.247 4.632\" />\n  <circle cx=\"17\" cy=\"14\" r=\"2\" />\n  <circle cx=\"7\" cy=\"4\" r=\"2\" />\n</svg>\n"
+  },
+  {
     "name": "UsersRound",
     "slug": "users-round",
     "categories": [
@@ -34507,6 +35027,33 @@
       "people"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M18 21a8 8 0 0 0-16 0\" />\n  <circle cx=\"10\" cy=\"8\" r=\"5\" />\n  <path d=\"M22 20c0-3.37-2-6.5-4-8a5 5 0 0 0-.45-8.3\" />\n</svg>\n"
+  },
+  {
+    "name": "UsersRoundCollaboration",
+    "slug": "users-round-collaboration",
+    "categories": [
+      "account",
+      "people",
+      "communication"
+    ],
+    "tags": [
+      "group",
+      "people",
+      "collaboration",
+      "users",
+      "team",
+      "communication",
+      "cooperative",
+      "workspace",
+      "peer-to-peer",
+      "p2p",
+      "shared",
+      "delegation",
+      "handoff",
+      "coauthor",
+      "profiles"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M20.453 8.911a9 9 0 00-6.696-5.738\" />\n  <path d=\"M21 22a4 4 0 00-8 0\" />\n  <path d=\"M3 12a4 4 0 017.963-.543\" />\n  <path d=\"M3.889 15.9a9 9 0 005.247 4.632\" />\n  <circle cx=\"17\" cy=\"15\" r=\"3\" />\n  <circle cx=\"7\" cy=\"5\" r=\"3\" />\n</svg>\n"
   },
   {
     "name": "Utensils",
