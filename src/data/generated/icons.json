@@ -266,6 +266,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "reminder",
       "wake-up"
     ],
@@ -1108,9 +1109,18 @@
     ],
     "tags": [
       "application",
+      "app",
+      "window",
+      "gui",
+      "interface",
+      "modal",
+      "popup",
       "menu bar",
       "pane",
-      "executable"
+      "executable",
+      "instance",
+      "integration",
+      "software"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <rect x=\"2\" y=\"4\" width=\"20\" height=\"16\" rx=\"2\" />\n  <path d=\"M10 4v4\" />\n  <path d=\"M2 8h20\" />\n  <path d=\"M6 4v4\" />\n</svg>\n"
   },
@@ -1123,9 +1133,18 @@
     ],
     "tags": [
       "application",
+      "app",
+      "window",
+      "gui",
+      "interface",
+      "modal",
+      "popup",
       "menu bar",
       "pane",
       "executable",
+      "instance",
+      "integration",
+      "software",
       "preferences",
       "macos",
       "osx",
@@ -1138,6 +1157,47 @@
       "native app"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <rect width=\"20\" height=\"16\" x=\"2\" y=\"4\" rx=\"2\" />\n  <path d=\"M6 8h.01\" />\n  <path d=\"M10 8h.01\" />\n  <path d=\"M14 8h.01\" />\n</svg>\n"
+  },
+  {
+    "name": "AppWindowPlus",
+    "slug": "app-window-plus",
+    "categories": [
+      "layout",
+      "design",
+      "development",
+      "files"
+    ],
+    "tags": [
+      "application",
+      "app",
+      "window",
+      "gui",
+      "interface",
+      "modal",
+      "popup",
+      "menu bar",
+      "pane",
+      "executable",
+      "instance",
+      "integration",
+      "software",
+      "plus",
+      "add",
+      "new",
+      "create",
+      "+",
+      "increase",
+      "increment",
+      "extra",
+      "insert",
+      "addition",
+      "added",
+      "open",
+      "install",
+      "tab",
+      "expand"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M14 4v4\" />\n  <path d=\"M16 17h6\" />\n  <path d=\"M18 4v4\" />\n  <path d=\"M19 14v6\" />\n  <path d=\"M2 8h20\" />\n  <path d=\"M22 11V6a2 2 0 00-2-2H4a2 2 0 00-2 2v12a2 2 0 002 2h9\" />\n</svg>\n"
   },
   {
     "name": "Apple",
@@ -1258,6 +1318,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "junk"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <rect width=\"20\" height=\"5\" x=\"2\" y=\"3\" rx=\"1\" />\n  <path d=\"M4 8v11a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8\" />\n  <path d=\"m9.5 17 5-5\" />\n  <path d=\"m9.5 12 5 5\" />\n</svg>\n"
@@ -3073,10 +3137,12 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "mute",
       "silence",
-      "disabled",
-      "unavailable",
       "equalizer",
       "equaliser",
       "waveform"
@@ -3416,6 +3482,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "premium",
       "vip",
       "exclusive",
@@ -3964,6 +4031,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "lost"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z\" />\n  <line x1=\"15\" x2=\"9\" y1=\"9\" y2=\"15\" />\n  <line x1=\"9\" x2=\"15\" y1=\"9\" y2=\"15\" />\n</svg>\n"
@@ -4265,6 +4336,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "banknote",
       "document",
       "verification",
@@ -4310,8 +4382,10 @@
       "deny",
       "decline",
       "refuse",
-      "error",
+      "disabled",
       "failed",
+      "unavailable",
+      "error",
       "rejected",
       "declined",
       "lost"
@@ -4851,7 +4925,8 @@
       "todo",
       "selected",
       "okay",
-      "ok"
+      "ok",
+      "enabled"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M10.268 21a2 2 0 0 0 3.464 0\" />\n  <path d=\"m15 8 2 2 4-4\" />\n  <path d=\"M16.8607 4.4824A6 6 0 0 0 6 8C6 12.499 4.589 13.956 3.262 15.326\" />\n  <path d=\"M3.262 15.326A1 1 0 0 0 4 17H20A1 1 0 0 0 20.74 15.327C20.209 14.779 19.665 14.218 19.203 13.454\" />\n</svg>\n"
   },
@@ -5904,6 +5979,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "read",
       "authored",
       "published",
@@ -6642,6 +6718,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "read",
       "authored",
       "published",
@@ -7172,6 +7249,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "code",
       "coding",
       "version control",
@@ -7256,7 +7337,8 @@
       "todo",
       "selected",
       "okay",
-      "ok"
+      "ok",
+      "enabled"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z\" />\n  <path d=\"m9 10 2 2 4-4\" />\n</svg>\n"
   },
@@ -7423,7 +7505,11 @@
       "×",
       "deny",
       "decline",
-      "refuse"
+      "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m14.5 7.5-5 5\" />\n  <path d=\"M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z\" />\n  <path d=\"m9.5 7.5 5 5\" />\n</svg>\n"
   },
@@ -7458,9 +7544,57 @@
       "robot",
       "ai",
       "chat",
-      "assistant"
+      "assistant",
+      "chatbot",
+      "automation",
+      "machine-learning",
+      "ai-assistant",
+      "intelligent-assistant",
+      "agent"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 8V4H8\" />\n  <rect width=\"16\" height=\"12\" x=\"4\" y=\"8\" rx=\"2\" />\n  <path d=\"M2 14h2\" />\n  <path d=\"M20 14h2\" />\n  <path d=\"M15 13v2\" />\n  <path d=\"M9 13v2\" />\n</svg>\n"
+  },
+  {
+    "name": "BotCheck",
+    "slug": "bot-check",
+    "categories": [
+      "development",
+      "social",
+      "ai"
+    ],
+    "tags": [
+      "robot",
+      "ai",
+      "chat",
+      "assistant",
+      "chatbot",
+      "automation",
+      "machine-learning",
+      "ai-assistant",
+      "intelligent-assistant",
+      "agent",
+      "checkmark",
+      "done",
+      "completed",
+      "finished",
+      "successful",
+      "confirmed",
+      "verified",
+      "validated",
+      "approved",
+      "accepted",
+      "correct",
+      "valid",
+      "ticked",
+      "task",
+      "todo",
+      "selected",
+      "okay",
+      "ok",
+      "enabled",
+      "connected"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 8V4H8\" />\n  <path d=\"M15 13v2\" />\n  <path d=\"m16 19 2 2 4-4\" />\n  <path d=\"M2 14h2\" />\n  <path d=\"M20 13.5V10a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h6\" />\n  <path d=\"M9 13v2\" />\n</svg>\n"
   },
   {
     "name": "BotMessageSquare",
@@ -7474,9 +7608,49 @@
       "robot",
       "ai",
       "chat",
-      "assistant"
+      "assistant",
+      "chatbot",
+      "automation",
+      "machine-learning",
+      "ai-assistant",
+      "intelligent-assistant",
+      "agent"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 6V2H8\" />\n  <path d=\"M15 11v2\" />\n  <path d=\"M2 12h2\" />\n  <path d=\"M20 12h2\" />\n  <path d=\"M20 16a2 2 0 0 1-2 2H8.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 4 20.286V8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2z\" />\n  <path d=\"M9 11v2\" />\n</svg>\n"
+  },
+  {
+    "name": "BotMinus",
+    "slug": "bot-minus",
+    "categories": [
+      "development",
+      "social",
+      "ai"
+    ],
+    "tags": [
+      "robot",
+      "ai",
+      "chat",
+      "assistant",
+      "chatbot",
+      "automation",
+      "machine-learning",
+      "ai-assistant",
+      "intelligent-assistant",
+      "agent",
+      "minus",
+      "remove",
+      "delete",
+      "cancel",
+      "erase",
+      "subtract",
+      "reduce",
+      "clear",
+      "exclude",
+      "-",
+      "integration",
+      "deactivate"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 8V4H8\" />\n  <path d=\"M15 13v2\" />\n  <path d=\"M2 14h2\" />\n  <path d=\"M20 15v-5a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h6\" />\n  <path d=\"M22 19h-6\" />\n  <path d=\"M9 13v2\" />\n</svg>\n"
   },
   {
     "name": "BotOff",
@@ -7491,6 +7665,12 @@
       "ai",
       "chat",
       "assistant",
+      "chatbot",
+      "automation",
+      "machine-learning",
+      "ai-assistant",
+      "intelligent-assistant",
+      "agent",
       "off",
       "disable",
       "hide",
@@ -7517,6 +7697,89 @@
       "diagonal line"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M13.67 8H18a2 2 0 0 1 2 2v4.33\" />\n  <path d=\"M2 14h2\" />\n  <path d=\"M20 14h2\" />\n  <path d=\"M22 22 2 2\" />\n  <path d=\"M8 8H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 1.414-.586\" />\n  <path d=\"M9 13v2\" />\n  <path d=\"M9.67 4H12v2.33\" />\n</svg>\n"
+  },
+  {
+    "name": "BotPlus",
+    "slug": "bot-plus",
+    "categories": [
+      "development",
+      "social",
+      "ai"
+    ],
+    "tags": [
+      "robot",
+      "ai",
+      "chat",
+      "assistant",
+      "chatbot",
+      "automation",
+      "machine-learning",
+      "ai-assistant",
+      "intelligent-assistant",
+      "agent",
+      "plus",
+      "add",
+      "new",
+      "create",
+      "+",
+      "increase",
+      "increment",
+      "extra",
+      "insert",
+      "addition",
+      "added"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 8V4H8\" />\n  <path d=\"M15 13v2\" />\n  <path d=\"M19 16v6\" />\n  <path d=\"M2 14h2\" />\n  <path d=\"M20 12v-2a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h6\" />\n  <path d=\"M22 19h-6\" />\n  <path d=\"M9 13v2\" />\n</svg>\n"
+  },
+  {
+    "name": "BotX",
+    "slug": "bot-x",
+    "categories": [
+      "development",
+      "social",
+      "ai"
+    ],
+    "tags": [
+      "robot",
+      "ai",
+      "chat",
+      "assistant",
+      "chatbot",
+      "automation",
+      "machine-learning",
+      "ai-assistant",
+      "intelligent-assistant",
+      "agent",
+      "x",
+      "remove",
+      "delete",
+      "cancel",
+      "clear",
+      "close",
+      "discard",
+      "dismiss",
+      "erase",
+      "abort",
+      "reject",
+      "canceled",
+      "cancelled",
+      "cancellation",
+      "cross",
+      "times",
+      "ex",
+      "×",
+      "deny",
+      "decline",
+      "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
+      "disconnected",
+      "offline",
+      "integration"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 8V4H8\" />\n  <path d=\"M15 13v1.5\" />\n  <path d=\"m18 17 4 4\" />\n  <path d=\"M2 14h2\" />\n  <path d=\"M20 13.5V10a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h8\" />\n  <path d=\"m22 17-4 4\" />\n  <path d=\"M9 13v2\" />\n</svg>\n"
   },
   {
     "name": "BottleWine",
@@ -7583,6 +7846,48 @@
       "isometric"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z\" />\n  <path d=\"m3.3 7 8.7 5 8.7-5\" />\n  <path d=\"M12 22V12\" />\n</svg>\n"
+  },
+  {
+    "name": "BoxDashed",
+    "slug": "box-dashed",
+    "categories": [
+      "shapes",
+      "gaming",
+      "development",
+      "math",
+      "design"
+    ],
+    "tags": [
+      "cube",
+      "package",
+      "container",
+      "storage",
+      "geometry",
+      "3d",
+      "isometric",
+      "dashed",
+      "dotted",
+      "broken line",
+      "augmented reality",
+      "ar",
+      "bounding box",
+      "bounds",
+      "spatial boundary",
+      "selection volume",
+      "placeholder",
+      "volume",
+      "wireframe",
+      "mesh",
+      "unrendered",
+      "3d scanning",
+      "spatial mapping",
+      "collision",
+      "hitbox",
+      "bounding volume",
+      "collision detection",
+      "selection boundary"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 12v3\" />\n  <path d=\"M12 22v-3\" />\n  <path d=\"m18.268 18.732 1.732-1a2 2 0 001-1.733V14\" />\n  <path d=\"M20.7 7 18 8.552\" />\n  <path d=\"M21 10V8a2 2 0 00-1-1.73l-1.732-1\" />\n  <path d=\"M3 10V8a2 2 0 011-1.73l1.732-1\" />\n  <path d=\"M3.3 7 6 8.552\" />\n  <path d=\"m5.732 18.732-1.732-1A2 2 0 013 16v-2\" />\n  <path d=\"m9.268 20.732 1.732 1a2 2 0 002-.002l1.732-.998\" />\n  <path d=\"m9.268 3.27 1.732-1a2 2 0 012 0l1.732 1\" />\n  <path d=\"m9.468 10.54 2.533 1.462 2.533-1.463\" />\n</svg>\n"
   },
   {
     "name": "Boxes",
@@ -8891,6 +9196,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "subscribe",
       "schedule",
       "today"
@@ -8930,6 +9236,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "subscribe",
       "schedule",
       "today"
@@ -9048,7 +9355,7 @@
       "watch",
       "history"
     ],
-    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M16 14v2.2l1.6 1\" />\n  <path d=\"M16 2v3\" />\n  <path d=\"M21 7.338V5a2 2 0 00-2-2H5a2 2 0 00-2 2v14a2 2 0 002 2h2.338\" />\n  <path d=\"M3 9h5.859\" />\n  <path d=\"M8 2v3\" />\n  <circle cx=\"16\" cy=\"16\" r=\"6\" />\n</svg>\n"
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M16 2v3\" />\n  <path d=\"M17 15.5v1.7l1 .625\" />\n  <path d=\"M21 8.936V5a2 2 0 00-2-2H5a2 2 0 00-2 2v14a2 2 0 002 2h3.935\" />\n  <path d=\"M3 9h9.873\" />\n  <path d=\"M8 2v3\" />\n  <circle cx=\"17\" cy=\"17\" r=\"5\" />\n</svg>\n"
   },
   {
     "name": "CalendarCog",
@@ -9455,6 +9762,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "busy"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M8 2v3\" />\n  <path d=\"M16 2v3\" />\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" />\n  <path d=\"M3 9h18\" />\n  <path d=\"m14 13-4 4\" />\n  <path d=\"m10 13 4 4\" />\n</svg>\n"
@@ -9495,6 +9806,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "busy"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M16 2v3\" />\n  <path d=\"m17 16 5 5\" />\n  <path d=\"m17 21 5-5\" />\n  <path d=\"M21 12V5a2 2 0 00-2-2H5a2 2 0 00-2 2v14a2 2 0 002 2h8\" />\n  <path d=\"M3 9h18\" />\n  <path d=\"M8 2v3\" />\n</svg>\n"
@@ -11263,7 +11578,8 @@
       "todo",
       "selected",
       "okay",
-      "ok"
+      "ok",
+      "enabled"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M20 6 9 17l-5-5\" />\n</svg>\n"
   },
@@ -11292,6 +11608,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "received",
       "double"
     ],
@@ -11321,7 +11638,8 @@
       "todo",
       "selected",
       "okay",
-      "ok"
+      "ok",
+      "enabled"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M20 4L9 15\" />\n  <path d=\"M21 19L3 19\" />\n  <path d=\"M9 15L4 10\" />\n</svg>\n"
   },
@@ -12026,6 +12344,26 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m7 15 5 5 5-5\" />\n  <path d=\"m7 9 5-5 5 5\" />\n</svg>\n"
   },
   {
+    "name": "ChocolateBar",
+    "slug": "chocolate-bar",
+    "categories": [
+      "food-beverage"
+    ],
+    "tags": [
+      "candy",
+      "dessert",
+      "snack",
+      "sweet",
+      "confectionery",
+      "cocoa",
+      "treat",
+      "sugar",
+      "nibble",
+      "munch"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 2v10\" />\n  <path d=\"M17 12V4.4a.4.4 0 00-.4-.4A1.6 1.6 0 0115 2.4a.4.4 0 00-.4-.4H9a2 2 0 00-2 2v8\" />\n  <path d=\"M5 14a2 2 0 012-2h10a2 2 0 012 2v2a1 1 0 01-1 1 2 2 0 01-.9-.203l-1.2-.594a2 2 0 00-1.8 0l-1.2.594a2 2 0 01-1.8 0l-1.2-.594a2 2 0 00-1.8 0l-1.2.594a2 2 0 01-.9.198A1 1 0 015 16z\" />\n  <path d=\"M7 16.748V20a2 2 0 002 2h6a2 2 0 002-2v-3.252\" />\n  <path d=\"M7 7h10\" />\n</svg>\n"
+  },
+  {
     "name": "Church",
     "slug": "church",
     "categories": [
@@ -12088,6 +12426,30 @@
       "no-smoking"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 12H3a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h13\" />\n  <path d=\"M18 8c0-2.5-2-2.5-2-5\" />\n  <path d=\"m2 2 20 20\" />\n  <path d=\"M21 12a1 1 0 0 1 1 1v2a1 1 0 0 1-.5.866\" />\n  <path d=\"M22 8c0-2.5-2-2.5-2-5\" />\n  <path d=\"M7 12v4\" />\n</svg>\n"
+  },
+  {
+    "name": "Cinema",
+    "slug": "cinema",
+    "categories": [
+      "multimedia"
+    ],
+    "tags": [
+      "movie",
+      "theater",
+      "theatre",
+      "screen",
+      "projector",
+      "seats",
+      "film",
+      "watching",
+      "streaming",
+      "entertainment",
+      "auditorium",
+      "show times",
+      "tickets",
+      "venue"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M14 22a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2\" />\n  <path d=\"M15.03 8.44a.65.65 0 0 1 0 1.12l-4.06 2.35a.64.64 0 0 1-.97-.56v-4.7a.647.647 0 0 1 .96-.56z\" />\n  <path d=\"M2 22a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2\" />\n  <rect x=\"2\" y=\"2\" width=\"20\" height=\"14\" rx=\"2\" />\n</svg>\n"
   },
   {
     "name": "Circle",
@@ -12318,6 +12680,30 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M22 12A10 10 0 1 1 12 2\" />\n  <path d=\"M22 2 12 12\" />\n  <path d=\"M16 2h6v6\" />\n</svg>\n"
   },
   {
+    "name": "CircleBounce",
+    "slug": "circle-bounce",
+    "categories": [
+      "science",
+      "design"
+    ],
+    "tags": [
+      "ball",
+      "trajectory",
+      "rebound",
+      "motion",
+      "physics",
+      "animation",
+      "easing",
+      "analytics",
+      "collision",
+      "impact",
+      "curve",
+      "arc",
+      "kinematics"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M2 13c2.5.5 5 4 5 8 0-2.16 1.813-7.536 6-11.293\" />\n  <circle cx=\"19\" cy=\"6\" r=\"3\" />\n</svg>\n"
+  },
+  {
     "name": "CircleCheck",
     "slug": "circle-check",
     "categories": [
@@ -12341,7 +12727,8 @@
       "todo",
       "selected",
       "okay",
-      "ok"
+      "ok",
+      "enabled"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <circle cx=\"12\" cy=\"12\" r=\"10\" />\n  <path d=\"m16 9-5.5 5.5L8 12\" />\n</svg>\n"
   },
@@ -12369,7 +12756,8 @@
       "todo",
       "selected",
       "okay",
-      "ok"
+      "ok",
+      "enabled"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M21.801 10A10 10 0 1 1 17 3.335\" />\n  <path d=\"m9 11 3 3L22 4\" />\n</svg>\n"
   },
@@ -12718,6 +13106,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "changes",
       "revision",
       "reapproval",
@@ -13003,6 +13392,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "pending",
       "progress",
       "processing",
@@ -13899,6 +14289,26 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <circle cx=\"12\" cy=\"12\" r=\"10\" />\n  <path d=\"m15 9-6 6\" />\n  <path d=\"M9 9h.01\" />\n  <path d=\"M15 15h.01\" />\n</svg>\n"
   },
   {
+    "name": "CirclePersonArmsSpread",
+    "slug": "circle-person-arms-spread",
+    "categories": [
+      "accessibility",
+      "people"
+    ],
+    "tags": [
+      "universal access",
+      "accessibility",
+      "disability",
+      "disabled",
+      "dda",
+      "inclusive",
+      "universal",
+      "human",
+      "people"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m15 17-3-3\" />\n  <path d=\"M8 10s2 1 4 1 4-1 4-1\" />\n  <path d=\"m9 17 3-3v-3\" />\n  <circle cx=\"12\" cy=\"12\" r=\"10\" />\n  <circle cx=\"12\" cy=\"7\" r=\".5\" fill=\"currentColor\" />\n</svg>\n"
+  },
+  {
     "name": "CirclePile",
     "slug": "circle-pile",
     "categories": [
@@ -14187,6 +14597,30 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <circle cx=\"12\" cy=\"12\" r=\"6\" />\n</svg>\n"
   },
   {
+    "name": "CircleSpeedLines",
+    "slug": "circle-speed-lines",
+    "categories": [
+      "design"
+    ],
+    "tags": [
+      "fast",
+      "quick",
+      "motion",
+      "movement",
+      "moving",
+      "velocity",
+      "animation",
+      "express",
+      "acceleration",
+      "rapid",
+      "swift",
+      "racing",
+      "momentum",
+      "motion blur"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M6 12H2\" />\n  <path d=\"M7.338 17 L4 17\" />\n  <path d=\"M7.338 7 L3.5 7\" />\n  <circle cx=\"16\" cy=\"12\" r=\"6\" />\n</svg>\n"
+  },
+  {
     "name": "CircleStar",
     "slug": "circle-star",
     "categories": [
@@ -14329,6 +14763,9 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
       "error",
       "incorrect",
       "wrong",
@@ -14496,6 +14933,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "copied",
       "pasted",
       "result",
@@ -14538,7 +14976,7 @@
       "appointment",
       "logbook"
     ],
-    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M16 14v2.2l1.6 1\" />\n  <path d=\"M16 4h2a2 2 0 0 1 2 2v.832\" />\n  <path d=\"M8 4H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h2\" />\n  <circle cx=\"16\" cy=\"16\" r=\"6\" />\n  <rect x=\"8\" y=\"2\" width=\"8\" height=\"4\" rx=\"1\" />\n</svg>\n"
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M16 4h2a2 2 0 012 2v2.512\" />\n  <path d=\"M17 15.5v1.7l1 .625\" />\n  <path d=\"M8 4H6a2 2 0 00-2 2v14a2 2 0 002 2h3.516\" />\n  <circle cx=\"17\" cy=\"17\" r=\"5\" />\n  <rect x=\"8\" y=\"2\" width=\"8\" height=\"4\" rx=\"1\" />\n</svg>\n"
   },
   {
     "name": "ClipboardCopy",
@@ -14749,7 +15187,11 @@
       "×",
       "deny",
       "decline",
-      "refuse"
+      "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <rect width=\"8\" height=\"4\" x=\"8\" y=\"2\" rx=\"1\" ry=\"1\" />\n  <path d=\"M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2\" />\n  <path d=\"m14.5 11.5-5 5\" />\n  <path d=\"m9.5 11.5 5 5\" />\n</svg>\n"
   },
@@ -15317,7 +15759,8 @@
       "todo",
       "selected",
       "okay",
-      "ok"
+      "ok",
+      "enabled"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M21.95 13a10 10 0 1 0-8.685 8.92\" />\n  <path d=\"M12 6v6l4 2\" />\n  <path d=\"m16 19 2 2 4-4\" />\n</svg>\n"
   },
@@ -15522,6 +15965,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "sync",
       "network",
       "saved",
@@ -16429,7 +16873,8 @@
       "todo",
       "selected",
       "okay",
-      "ok"
+      "ok",
+      "enabled"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m12 15 2 2 4-4\" />\n  <rect width=\"14\" height=\"14\" x=\"8\" y=\"8\" rx=\"2\" ry=\"2\" />\n  <path d=\"M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2\" />\n</svg>\n"
   },
@@ -16558,6 +17003,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "multiply",
       "multiplication"
     ],
@@ -16896,6 +17345,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "debit",
       "banking",
       "finance",
@@ -17059,6 +17509,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "debit",
       "banking",
       "finance",
@@ -17070,9 +17524,7 @@
       "cardholder",
       "declined",
       "rejected",
-      "failed",
-      "invalid",
-      "error"
+      "invalid"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12.5 19H4a2 2 0 01-2-2V7a2 2 0 012-2h16a2 2 0 012 2v3.5\" />\n  <path d=\"M2 10h20\" />\n  <path d=\"M6 14h2\" />\n  <path d=\"m16.5 14.5 5 5\" />\n  <path d=\"m21.5 14.5-5 5\" />\n</svg>\n"
   },
@@ -17521,7 +17973,8 @@
       "todo",
       "selected",
       "okay",
-      "ok"
+      "ok",
+      "enabled"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m16 19 2 2 4-4\" />\n  <path d=\"M21 13.127V5\" />\n  <path d=\"M3 12A9 3 0 0 0 21 12\" />\n  <path d=\"M3 5V19A9 3 0 0 0 13.318 21.968\" />\n  <ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\" />\n</svg>\n"
   },
@@ -17785,8 +18238,10 @@
       "deny",
       "decline",
       "refuse",
-      "error",
+      "disabled",
       "failed",
+      "unavailable",
+      "error",
       "invalid",
       "rejected",
       "denied",
@@ -18017,6 +18472,37 @@
       "decision tree"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 8.5a3.5 3.5 0 003.5 3.5 3.5 3.5 0 013.5 3.5v.5\" />\n  <path d=\"M12 8v.5A3.5 3.5 0 018.5 12 3.5 3.5 0 005 15.5v.5\" />\n  <rect x=\"16\" y=\"16\" width=\"6\" height=\"6\" rx=\"1\" />\n  <rect x=\"2\" y=\"16\" width=\"6\" height=\"6\" rx=\"1\" />\n  <rect x=\"9\" y=\"2\" width=\"6\" height=\"6\" rx=\"1\" />\n</svg>\n"
+  },
+  {
+    "name": "DiagramSankey",
+    "slug": "diagram-sankey",
+    "categories": [
+      "charts",
+      "science",
+      "finance"
+    ],
+    "tags": [
+      "sankey",
+      "chart",
+      "diagram",
+      "flow",
+      "change",
+      "movement",
+      "intersection",
+      "road",
+      "dataflow",
+      "streams",
+      "links",
+      "transfer",
+      "allocation",
+      "distribution",
+      "energy",
+      "resources",
+      "budget",
+      "conversion",
+      "throughput"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M21 12c-2.534 0-4.058-.492-5.093-1.08-1.065-.606-1.823-1.425-2.736-2.52-.85-1.02-1.97-2.472-3.557-3.557C7.914 3.68 5.814 3 3 3a1 1 0 00-1 1v3a1 1 0 001 1c1.935 0 3.023.444 3.792.97.881.602 1.512 1.4 2.537 2.63.7.84 1.548 1.827 2.691 2.718\" />\n  <path d=\"M3 16a1 1 0 00-1 1v3a1 1 0 001 1c10 0 10-4 18-4a1 1 0 001-1v-3a1 1 0 00-1-1c-8 0-8 4-18 4\" />\n  <path d=\"M3 3h18a1 1 0 011 1v3a1 1 0 01-1 1h-8.036\" />\n</svg>\n"
   },
   {
     "name": "Diameter",
@@ -18537,6 +19023,24 @@
       "canine"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M11.25 16.25h1.5L12 17z\" />\n  <path d=\"M16 14v.5\" />\n  <path d=\"M4.42 11.247A13.152 13.152 0 0 0 4 14.556C4 18.728 7.582 21 12 21s8-2.272 8-6.444a11.702 11.702 0 0 0-.493-3.309\" />\n  <path d=\"M8 14v.5\" />\n  <path d=\"M8.5 8.5c-.384 1.05-1.083 2.028-2.344 2.5-1.931.722-3.576-.297-3.656-1-.113-.994 1.177-6.53 4-7 1.923-.321 3.651.845 3.651 2.235A7.497 7.497 0 0 1 14 5.277c0-1.39 1.844-2.598 3.767-2.277 2.823.47 4.113 6.006 4 7-.08.703-1.725 1.722-3.656 1-1.261-.472-1.855-1.45-2.239-2.5\" />\n</svg>\n"
+  },
+  {
+    "name": "Doghouse",
+    "slug": "doghouse",
+    "categories": [
+      "animals",
+      "home",
+      "buildings"
+    ],
+    "tags": [
+      "kennel",
+      "pet",
+      "shelter",
+      "canine",
+      "puppy",
+      "backyard"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m2 9.718 8.82-6.333a2 2 0 012.36 0L22 9.718\" />\n  <path d=\"m20 8.282-1.007 10.902A2 2 0 0117 21H7a2 2 0 01-1.992-1.816L4 8.282\" />\n  <path d=\"M8.5 9.938a7 7 0 017 0\" />\n  <path d=\"M9 21v-5a3 3 0 016 0v5\" />\n</svg>\n"
   },
   {
     "name": "DollarSign",
@@ -20549,7 +21053,8 @@
       "todo",
       "selected",
       "okay",
-      "ok"
+      "ok",
+      "enabled"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z\" />\n  <path d=\"M14 2v5a1 1 0 0 0 1 1h5\" />\n  <path d=\"m9 15 2 2 4-4\" />\n</svg>\n"
   },
@@ -20578,7 +21083,8 @@
       "todo",
       "selected",
       "okay",
-      "ok"
+      "ok",
+      "enabled"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M10.5 22H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.706.706l3.588 3.588A2.4 2.4 0 0 1 20 8v6\" />\n  <path d=\"M14 2v5a1 1 0 0 0 1 1h5\" />\n  <path d=\"m14 20 2 2 4-4\" />\n</svg>\n"
   },
@@ -20609,7 +21115,7 @@
       "history",
       "log"
     ],
-    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M16 22h2a2 2 0 0 0 2-2V8a2.4 2.4 0 0 0-.706-1.706l-3.588-3.588A2.4 2.4 0 0 0 14 2H6a2 2 0 0 0-2 2v2.85\" />\n  <path d=\"M14 2v5a1 1 0 0 0 1 1h5\" />\n  <path d=\"M8 14v2.2l1.6 1\" />\n  <circle cx=\"8\" cy=\"16\" r=\"6\" />\n</svg>\n"
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M14 2v5a1 1 0 001 1h5\" />\n  <path d=\"M14.5 22H18a2 2 0 002-2V8a2.4 2.4 0 00-.706-1.706l-3.588-3.588A2.4 2.4 0 0014 2H6a2 2 0 00-2 2v4.512\" />\n  <path d=\"M7 15.5v1.7l1 .625\" />\n  <circle cx=\"7\" cy=\"17\" r=\"5\" />\n</svg>\n"
   },
   {
     "name": "FileCode",
@@ -21595,6 +22101,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "lost",
       "404",
       "not found",
@@ -21631,6 +22141,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "lost",
       "404",
       "not found",
@@ -22251,7 +22765,8 @@
       "todo",
       "selected",
       "okay",
-      "ok"
+      "ok",
+      "enabled"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z\" />\n  <path d=\"m9 13 2 2 4-4\" />\n</svg>\n"
   },
@@ -22281,7 +22796,7 @@
       "watch",
       "history"
     ],
-    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M16 14v2.2l1.6 1\" />\n  <path d=\"M7 20H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2\" />\n  <circle cx=\"16\" cy=\"16\" r=\"6\" />\n</svg>\n"
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M17 15.5v1.7l1 .625\" />\n  <path d=\"M8.512 20H4a2 2 0 01-2-2V5a2 2 0 012-2h3.9a2 2 0 011.69.9l.81 1.2a2 2 0 001.67.9H20a2 2 0 012 2v1.516\" />\n  <circle cx=\"17\" cy=\"17\" r=\"5\" />\n</svg>\n"
   },
   {
     "name": "FolderClosed",
@@ -22582,6 +23097,33 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M9 13h6\" />\n  <path d=\"M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z\" />\n</svg>\n"
   },
   {
+    "name": "FolderNetwork",
+    "slug": "folder-network",
+    "categories": [
+      "files",
+      "connectivity",
+      "development"
+    ],
+    "tags": [
+      "directory",
+      "network",
+      "ftp",
+      "sftp",
+      "file transfer",
+      "file transfer protocol",
+      "shared folder",
+      "file sharing",
+      "network drive",
+      "network storage",
+      "remote",
+      "server",
+      "nas",
+      "smb",
+      "nfs"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 14v4\" />\n  <path d=\"M17 4a2 2 0 012 2v6a2 2 0 01-2 2H7a2 2 0 01-2-2V4a2 2 0 012-2h2.5a1.5 1.5 0 011.2.6l.6.8a1.5 1.5 0 001.2.6z\" />\n  <path d=\"M21 20h-7\" />\n  <path d=\"M3 20h7\" />\n  <circle cx=\"12\" cy=\"20\" r=\"2\" />\n</svg>\n"
+  },
+  {
     "name": "FolderOpen",
     "slug": "folder-open",
     "categories": [
@@ -22687,6 +23229,28 @@
       "added"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 10v6\" />\n  <path d=\"M9 13h6\" />\n  <path d=\"M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z\" />\n</svg>\n"
+  },
+  {
+    "name": "FolderPlusCorner",
+    "slug": "folder-plus-corner",
+    "categories": [
+      "files"
+    ],
+    "tags": [
+      "directory",
+      "plus",
+      "add",
+      "new",
+      "create",
+      "+",
+      "increase",
+      "increment",
+      "extra",
+      "insert",
+      "addition",
+      "added"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M16 17h6\" />\n  <path d=\"M19 14v6\" />\n  <path d=\"M22 11.354V8a2 2 0 00-2-2h-7.9a2 2 0 01-1.69-.9L9.6 3.9A2 2 0 007.93 3H4a2 2 0 00-2 2v13a2 2 0 002 2h9.354\" />\n</svg>\n"
   },
   {
     "name": "FolderRoot",
@@ -22943,7 +23507,11 @@
       "×",
       "deny",
       "decline",
-      "refuse"
+      "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z\" />\n  <path d=\"m9.5 10.5 5 5\" />\n  <path d=\"m14.5 10.5-5 5\" />\n</svg>\n"
   },
@@ -23147,7 +23715,11 @@
       "×",
       "deny",
       "decline",
-      "refuse"
+      "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12.531 3H3a1 1 0 0 0-.742 1.67l7.225 7.989A2 2 0 0 1 10 14v6a1 1 0 0 0 .553.895l2 1A1 1 0 0 0 14 21v-7a2 2 0 0 1 .517-1.341l.427-.473\" />\n  <path d=\"m16.5 3.5 5 5\" />\n  <path d=\"m21.5 3.5-5 5\" />\n</svg>\n"
   },
@@ -24108,6 +24680,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "web",
       "available",
       "online",
@@ -24352,6 +24925,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "offline",
       "disconnected",
       "no connection",
@@ -24471,6 +25048,42 @@
       "orchestration"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <circle cx=\"12\" cy=\"7\" r=\"4\" />\n  <circle cx=\"4\" cy=\"19\" r=\"2\" />\n  <circle cx=\"12\" cy=\"19\" r=\"2\" />\n  <circle cx=\"20\" cy=\"19\" r=\"2\" />\n  <path d=\"M8 7a4 4 0 0 0-4 4v6\" />\n  <path d=\"M12 11v6\" />\n  <path d=\"M16 7a4 4 0 0 1 4 4v6\" />\n</svg>\n"
+  },
+  {
+    "name": "GraphPath",
+    "slug": "graph-path",
+    "categories": [
+      "charts",
+      "finance",
+      "travel"
+    ],
+    "tags": [
+      "network",
+      "nodes",
+      "edges",
+      "links",
+      "connections",
+      "relationships",
+      "structure",
+      "topology",
+      "line",
+      "dot",
+      "analysis",
+      "branch",
+      "branching",
+      "merging",
+      "converging",
+      "trail",
+      "route",
+      "analytics",
+      "timeline",
+      "waypoint",
+      "milestone",
+      "tracking",
+      "trend",
+      "sequence"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m10.628 11.163 3.744 2.674\" />\n  <path d=\"m16.895 13.21 2.21-4.42\" />\n  <path d=\"m5.163 15.372 2.674-3.744\" />\n  <circle cx=\"16\" cy=\"15\" r=\"2\" />\n  <circle cx=\"20\" cy=\"7\" r=\"2\" />\n  <circle cx=\"4\" cy=\"17\" r=\"2\" />\n  <circle cx=\"9\" cy=\"10\" r=\"2\" />\n</svg>\n"
   },
   {
     "name": "GraphRing",
@@ -24603,6 +25216,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "data"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 3v17a1 1 0 0 1-1 1H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v6a1 1 0 0 1-1 1H3\" />\n  <path d=\"m16 19 2 2 4-4\" />\n</svg>\n"
@@ -24693,6 +25307,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "data"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 3v17a1 1 0 0 1-1 1H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v6a1 1 0 0 1-1 1H3\" />\n  <path d=\"m16.5 16.5 5 5\" />\n  <path d=\"m16.5 21.5 5-5\" />\n</svg>\n"
@@ -25179,6 +25797,40 @@
       "luxury"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 3V2\" />\n  <path d=\"m15.4 17.4 3.2-2.8a2 2 0 1 1 2.8 2.9l-3.6 3.3c-.7.8-1.7 1.2-2.8 1.2h-4c-1.1 0-2.1-.4-2.8-1.2l-1.302-1.464A1 1 0 0 0 6.151 19H5\" />\n  <path d=\"M2 14h12a2 2 0 0 1 0 4h-2\" />\n  <path d=\"M4 10h16\" />\n  <path d=\"M5 10a7 7 0 0 1 14 0\" />\n  <path d=\"M5 14v6a1 1 0 0 1-1 1H2\" />\n</svg>\n"
+  },
+  {
+    "name": "HandTruck",
+    "slug": "hand-truck",
+    "categories": [
+      "transportation",
+      "shopping"
+    ],
+    "tags": [
+      "dolly",
+      "trolley",
+      "cart",
+      "delivery",
+      "moving",
+      "warehouse",
+      "logistics",
+      "shipping",
+      "package",
+      "transport",
+      "box",
+      "storage",
+      "packed",
+      "inventory",
+      "tracking",
+      "order",
+      "product",
+      "barrow",
+      "cargo",
+      "freight",
+      "hauling",
+      "loading",
+      "unloading"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m15.614 7.108-2.115-4.53a1 1 0 0 0-1.329-.484l-2.3 1.073a1 1 0 0 0-.484 1.33l4.783 10.247a1 1 0 0 0 1.329.483l5.925-2.765a1 1 0 0 0 .483-1.329l-2.245-4.81a1 1 0 0 0-1.329-.484l-6.831 3.188\" />\n  <path d=\"M2 3.268a2 2 0 0 1 2.812.886l7 15a2 2 0 0 0 2.659.967L20 17.54\" />\n  <circle cx=\"10\" cy=\"20\" r=\"2\" />\n</svg>\n"
   },
   {
     "name": "Handbag",
@@ -25941,6 +26593,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "unlike",
       "unfavorite"
     ],
@@ -26063,6 +26719,32 @@
       "play"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M11 4v4c0 1.1-2.025 2-4.5 2S2 9.1 2 8V4\" />\n  <path d=\"M18.21 3.106a2 2 0 013.579 1.789l-6.895 13.789A6 6 0 019.529 22H4.5a1 1 0 010-5h5.528a2 2 0 001.788-1.105z\" />\n  <path d=\"m18.59 11.295-3.578-1.789\" />\n  <path d=\"m20.79 6.895-3.578-1.789\" />\n  <path d=\"M7 17v5\" />\n  <ellipse cx=\"6.5\" cy=\"4\" rx=\"4.5\" ry=\"2\" />\n</svg>\n"
+  },
+  {
+    "name": "Hole",
+    "slug": "hole",
+    "categories": [
+      "shapes",
+      "tools"
+    ],
+    "tags": [
+      "opening",
+      "cavity",
+      "pit",
+      "void",
+      "tunnel",
+      "portal",
+      "bore",
+      "aperture",
+      "cutout",
+      "pothole",
+      "drilling",
+      "3d",
+      "cad",
+      "terrain",
+      "hazard"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M2.57 14a10 6 0 0 1 18.86 0\" />\n  <ellipse cx=\"12\" cy=\"12\" rx=\"10\" ry=\"6\" />\n</svg>\n"
   },
   {
     "name": "Hop",
@@ -26266,6 +26948,92 @@
       "homepage"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8\" />\n  <path d=\"M3 10a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\" />\n</svg>\n"
+  },
+  {
+    "name": "HouseArrowLeft",
+    "slug": "house-arrow-left",
+    "categories": [
+      "buildings",
+      "home",
+      "arrows",
+      "account"
+    ],
+    "tags": [
+      "home",
+      "living",
+      "building",
+      "residence",
+      "architecture",
+      "homepage",
+      "direction",
+      "movement",
+      "horizontal",
+      "leftward",
+      "leftwards",
+      "west",
+      "enter",
+      "entry",
+      "check-in",
+      "arrival",
+      "ingress",
+      "sign in",
+      "automation",
+      "check in",
+      "arriving",
+      "sign-in",
+      "signin",
+      "login",
+      "presence",
+      "presence detection",
+      "smart home",
+      "iot",
+      "geofencing",
+      "access",
+      "welcome"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12.343 21H5a2 2 0 01-2-2v-9a2 2 0 01.709-1.527l7-6a2 2 0 012.582 0l7 6A2 2 0 0121 10.001v2.354\" />\n  <path d=\"m18 15-3 3\" />\n  <path d=\"M21 18h-6l3 3\" />\n  <path d=\"M9 21v-8a1 1 0 011-.999h4a1 1 0 01.857.485\" />\n</svg>\n"
+  },
+  {
+    "name": "HouseArrowRight",
+    "slug": "house-arrow-right",
+    "categories": [
+      "buildings",
+      "home",
+      "arrows",
+      "account"
+    ],
+    "tags": [
+      "home",
+      "living",
+      "building",
+      "residence",
+      "architecture",
+      "homepage",
+      "direction",
+      "movement",
+      "horizontal",
+      "rightward",
+      "rightwards",
+      "east",
+      "exit",
+      "checkout",
+      "departure",
+      "egress",
+      "sign out",
+      "automation",
+      "rental",
+      "booking",
+      "vacating",
+      "move-out",
+      "guest",
+      "tenant",
+      "property management",
+      "presence detection",
+      "away mode",
+      "security",
+      "logout"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12.353 21H5a2 2 0 01-2-2v-9a2 2 0 01.709-1.528l7-6a2 2 0 012.582 0l7 6A2 2 0 0121 10v2.344\" />\n  <path d=\"M14.87 12.508A1 1 0 0014 12h-4a1 1 0 00-1 1v8\" />\n  <path d=\"m17.999 21 3-3h-6\" />\n  <path d=\"m20.999 18-3-3\" />\n</svg>\n"
   },
   {
     "name": "HouseCog",
@@ -26913,6 +27681,37 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 18v2a2 2 0 002 2h6\" />\n  <path d=\"M6 11c.72.5 1.44 1 3 1 3 0 3-2 6-2 1.56 0 2.28.5 3 1\" />\n  <path d=\"M9.293 3c.453 0 .887-.18 1.207-.5s.754-.5 1.207-.5h.586c.453 0 .887.18 1.207.5s.754.5 1.207.5H16a2 2 0 012 2v11a2 2 0 01-2 2H8a2 2 0 01-2-2V5a2 2 0 012-2z\" />\n</svg>\n"
   },
   {
+    "name": "Jacket",
+    "slug": "jacket",
+    "categories": [
+      "shopping",
+      "sports"
+    ],
+    "tags": [
+      "outerwear",
+      "fashion",
+      "apparel",
+      "styled",
+      "warm",
+      "outfit",
+      "wear",
+      "coat",
+      "blazer",
+      "tuxedo",
+      "tailor",
+      "uniform",
+      "attire",
+      "clothing",
+      "clothes",
+      "shopping",
+      "cold",
+      "warmth",
+      "winter",
+      "outdoors"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M11 2a3 3 0 00-3 3c0 2.6 4 4.4 4 7 0-2.6 4-4.4 4-7a3 3 0 00-3-3\" />\n  <path d=\"M12 12v10\" />\n  <path d=\"M18 10v10a2 2 0 01-2 2H8a2 2 0 01-2-2V10\" />\n  <path d=\"M18 17h-2\" />\n  <path d=\"M18 20h3a1 1 0 001-1V9a7 7 0 00-7-7H9a7 7 0 00-7 7v10a1 1 0 001 1h3\" />\n  <path d=\"M6 17h2\" />\n</svg>\n"
+  },
+  {
     "name": "JapaneseYen",
     "slug": "japanese-yen",
     "categories": [
@@ -27521,7 +28320,8 @@
       "todo",
       "selected",
       "okay",
-      "ok"
+      "ok",
+      "enabled"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M2 20h20\" />\n  <path d=\"m9 10 2 2 4-4\" />\n  <rect x=\"3\" y=\"4\" width=\"18\" height=\"12\" rx=\"2\" />\n</svg>\n"
   },
@@ -29388,6 +30188,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "list",
       "bom",
       "checklist"
@@ -29419,6 +30220,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "items",
       "pending",
       "checklist"
@@ -29881,6 +30683,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "playlist",
       "subtract",
       "unqueue"
@@ -30281,6 +31087,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "subscribe",
       "delivered",
       "read"
@@ -30323,7 +31130,7 @@
       "reminder",
       "outgoing"
     ],
-    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M16 14v2.2l1.6 1\" />\n  <path d=\"m22 7-.759.484\" />\n  <path d=\"M6.835 20H4a2 2 0 01-2-2V6a2 2 0 012-2h16a2 2 0 012 2v2\" />\n  <path d=\"M7.605 10.567 2 7\" />\n  <circle cx=\"16\" cy=\"16\" r=\"6\" />\n</svg>\n"
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M17 15.5v1.7l1 .625\" />\n  <path d=\"m22 7-2.244 1.43\" />\n  <path d=\"M22 9.516V6a2 2 0 00-2-2H4a2 2 0 00-2 2v12a2 2 0 002 2h4.512\" />\n  <path d=\"M9.62 11.848 2 7\" />\n  <circle cx=\"17\" cy=\"17\" r=\"5\" />\n</svg>\n"
   },
   {
     "name": "MailDot",
@@ -30606,7 +31413,11 @@
       "×",
       "deny",
       "decline",
-      "refuse"
+      "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M22 12.532V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8.792\" />\n  <path d=\"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7\" />\n  <path d=\"m16.5 16.5 5 5\" />\n  <path d=\"m21.5 16.5-5 5\" />\n</svg>\n"
   },
@@ -30748,6 +31559,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "added"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M19.43 12.935c.357-.967.57-1.955.57-2.935a8 8 0 0 0-16 0c0 4.993 5.539 10.193 7.399 11.799a1 1 0 0 0 1.202 0 32.197 32.197 0 0 0 .813-.728\" />\n  <circle cx=\"12\" cy=\"10\" r=\"3\" />\n  <path d=\"m16 18 2 2 4-4\" />\n</svg>\n"
@@ -30782,6 +31594,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "added"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0\" />\n  <path d=\"m9 10 2 2 4-4\" />\n</svg>\n"
@@ -31065,7 +31878,11 @@
       "×",
       "deny",
       "decline",
-      "refuse"
+      "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M19.752 11.901A7.78 7.78 0 0 0 20 10a8 8 0 0 0-16 0c0 4.993 5.539 10.193 7.399 11.799a1 1 0 0 0 1.202 0 19 19 0 0 0 .09-.077\" />\n  <circle cx=\"12\" cy=\"10\" r=\"3\" />\n  <path d=\"m21.5 15.5-5 5\" />\n  <path d=\"m21.5 20.5-5-5\" />\n</svg>\n"
   },
@@ -31101,7 +31918,11 @@
       "×",
       "deny",
       "decline",
-      "refuse"
+      "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0\" />\n  <path d=\"m14.5 7.5-5 5\" />\n  <path d=\"m9.5 7.5 5 5\" />\n</svg>\n"
   },
@@ -31665,6 +32486,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "moderate"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719\" />\n  <path d=\"m16 9-5.5 5.5L8 12\" />\n</svg>\n"
@@ -31750,6 +32572,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "pending",
       "provisional",
       "verification",
@@ -31890,6 +32713,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "off",
       "disable",
       "hide",
@@ -31897,9 +32724,7 @@
       "turn off",
       "block",
       "/",
-      "disabled",
       "inactive",
-      "unavailable",
       "deactivated",
       "slash",
       "blocked",
@@ -32076,6 +32901,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "silence",
       "mute",
       "moderate"
@@ -32131,6 +32960,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "moderate"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.7.7 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z\" />\n  <path d=\"m9 11 2 2 4-4\" />\n</svg>\n"
@@ -32405,6 +33235,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "off",
       "disable",
       "hide",
@@ -32412,9 +33246,7 @@
       "turn off",
       "block",
       "/",
-      "disabled",
       "inactive",
-      "unavailable",
       "deactivated",
       "slash",
       "blocked",
@@ -32576,6 +33408,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "silence",
       "mute",
       "moderate"
@@ -33207,6 +34043,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "connected",
       "running",
       "active"
@@ -33644,8 +34481,10 @@
       "deny",
       "decline",
       "refuse",
-      "error",
+      "disabled",
       "failed",
+      "unavailable",
+      "error",
       "disconnected",
       "stop",
       "suspend"
@@ -35171,6 +36010,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "stop",
       "alert",
       "warning",
@@ -35337,6 +36180,64 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 3v6\" />\n  <path d=\"M16.76 3a2 2 0 0 1 1.8 1.1l2.23 4.479a2 2 0 0 1 .21.891V19a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V9.472a2 2 0 0 1 .211-.894L5.45 4.1A2 2 0 0 1 7.24 3z\" />\n  <path d=\"M3.054 9.013h17.893\" />\n</svg>\n"
   },
   {
+    "name": "PackageArrowBendUpLeft",
+    "slug": "package-arrow-bend-up-left",
+    "categories": [
+      "files",
+      "development",
+      "logistics"
+    ],
+    "tags": [
+      "box",
+      "container",
+      "storage",
+      "sealed",
+      "delivery",
+      "undelivered",
+      "unopened",
+      "packed",
+      "archive",
+      "zip",
+      "module",
+      "shipping",
+      "recipient",
+      "inventory",
+      "logistics",
+      "tracking",
+      "order",
+      "product",
+      "direction",
+      "movement",
+      "horizontal",
+      "leftward",
+      "leftwards",
+      "west",
+      "diagonal",
+      "northwest",
+      "north-west",
+      "north west",
+      "shipment",
+      "move",
+      "framed",
+      "returned",
+      "back",
+      "send back",
+      "refund",
+      "exchange",
+      "reverse",
+      "revert",
+      "undo",
+      "return",
+      "parcel",
+      "return shipping",
+      "reverse logistics",
+      "restocking",
+      "return merchandise authorization",
+      "rma"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 15.343V12l8.71-5\" />\n  <path d=\"m17 22-3-3 3-3\" />\n  <path d=\"M21 15V8a2 2 0 00-1-1.73l-7-4a2 2 0 00-2 0l-7 4A2 2 0 003 8v8a2 2 0 001 1.73l7 4\" />\n  <path d=\"M22 22v-1a2 2 0 00-2-2h-6\" />\n  <path d=\"M3.29 7 12 12\" />\n  <path d=\"m7.5 4.27 9 5.15\" />\n</svg>\n"
+  },
+  {
     "name": "PackageCheck",
     "slug": "package-check",
     "categories": [
@@ -35381,6 +36282,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "delivered"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 22V12\" />\n  <path d=\"m16 17 2 2 4-4\" />\n  <path d=\"M21 11.127V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.729l7 4a2 2 0 0 0 2 .001l1.32-.753\" />\n  <path d=\"M3.29 7 12 12l8.71-5\" />\n  <path d=\"m7.5 4.27 8.997 5.148\" />\n</svg>\n"
@@ -35702,7 +36604,11 @@
       "×",
       "deny",
       "decline",
-      "refuse"
+      "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12 22V12\" />\n  <path d=\"m16.5 14.5 5 5\" />\n  <path d=\"m16.5 19.5 5-5\" />\n  <path d=\"M21 10.5V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.729l7 4a2 2 0 0 0 2 .001l.13-.074\" />\n  <path d=\"M3.29 7 12 12l8.71-5\" />\n  <path d=\"m7.5 4.27 8.997 5.148\" />\n</svg>\n"
   },
@@ -35721,6 +36627,34 @@
       "colour"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M11 7 6 2\" />\n  <path d=\"M18.992 12H2.041\" />\n  <path d=\"M21.145 18.38A3.34 3.34 0 0 1 20 16.5a3.3 3.3 0 0 1-1.145 1.88c-.575.46-.855 1.02-.855 1.595A2 2 0 0 0 20 22a2 2 0 0 0 2-2.025c0-.58-.285-1.13-.855-1.595\" />\n  <path d=\"m8.5 4.5 2.148-2.148a1.205 1.205 0 0 1 1.704 0l7.296 7.296a1.205 1.205 0 0 1 0 1.704l-7.592 7.592a3.615 3.615 0 0 1-5.112 0l-3.888-3.888a3.615 3.615 0 0 1 0-5.112L5.67 7.33\" />\n</svg>\n"
+  },
+  {
+    "name": "PaintGun",
+    "slug": "paint-gun",
+    "categories": [
+      "tools"
+    ],
+    "tags": [
+      "spray",
+      "airbrush",
+      "aerosol",
+      "painter",
+      "tool",
+      "diy",
+      "automotive",
+      "finishing",
+      "coating",
+      "color",
+      "colour",
+      "painting",
+      "sprayer",
+      "spraying",
+      "varnish",
+      "lacquer",
+      "enamel",
+      "pneumatic"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M11 10v-.172a2 2 0 0 1 .586-1.414l.828-.828A2 2 0 0 0 13 6.172V3a1 1 0 0 0-1-1H6a1 1 0 0 0-1 1v3.172a2 2 0 0 0 .586 1.414l.828.828A2 2 0 0 1 7 9.828V10\" />\n  <path d=\"m12 14-.81 3.242a1 1 0 0 1-.97.758H7\" />\n  <path d=\"M13 12h1\" />\n  <path d=\"M18.01 10h.01\" />\n  <path d=\"M18.01 14h.01\" />\n  <path d=\"M22.01 12h.01\" />\n  <path d=\"M22.01 16h.01\" />\n  <path d=\"M22.01 8h.01\" />\n  <path d=\"m4 14-1.845 7.379A.5.5 0 0 0 2.64 22h2.58a1 1 0 0 0 .97-.758L8 14\" />\n  <rect x=\"2\" y=\"10\" width=\"11\" height=\"4\" rx=\"1\" />\n</svg>\n"
   },
   {
     "name": "PaintRoller",
@@ -38431,6 +39365,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "printed"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M13.5 22H7a1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v.5\" />\n  <path d=\"m16 19 2 2 4-4\" />\n  <path d=\"M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v2\" />\n  <path d=\"M6 9V3a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v6\" />\n</svg>\n"
@@ -38466,6 +39401,9 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
       "error"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12.531 22H7a1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1h6.377\" />\n  <path d=\"m16.5 16.5 5 5\" />\n  <path d=\"m16.5 21.5 5-5\" />\n  <path d=\"M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v1.5\" />\n  <path d=\"M6 9V3a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v6\" />\n</svg>\n"
@@ -39219,6 +40157,21 @@
       "shape"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <rect width=\"20\" height=\"12\" x=\"2\" y=\"6\" rx=\"2\" />\n</svg>\n"
+  },
+  {
+    "name": "RectangleLandscapePlay",
+    "slug": "rectangle-landscape-play",
+    "categories": [
+      "arrows",
+      "multimedia"
+    ],
+    "tags": [
+      "music",
+      "video",
+      "start",
+      "movie"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M15.033 11.44a.65.65 0 010 1.12l-4.065 2.352a.65.65 0 01-.968-.56V9.648a.65.65 0 01.967-.56z\" />\n  <rect x=\"2\" y=\"5\" width=\"20\" height=\"14\" rx=\"2\" />\n</svg>\n"
   },
   {
     "name": "RectangleVertical",
@@ -40648,6 +41601,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "save",
       "save-check",
       "floppy-disk",
@@ -41566,6 +42520,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "found"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m8 11 2 2 4-4\" />\n  <circle cx=\"11\" cy=\"11\" r=\"8\" />\n  <path d=\"m21 21-4.3-4.3\" />\n</svg>\n"
@@ -41753,6 +42708,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "stop",
       "404",
       "not found",
@@ -42441,6 +43400,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "secured",
       "guarded",
       "defended",
@@ -42448,7 +43408,6 @@
       "prevented",
       "active",
       "activated",
-      "enabled",
       "scanned",
       "found",
       "audited",
@@ -43654,6 +44613,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "unshielded",
       "insecure",
       "unsecured",
@@ -43686,7 +44649,6 @@
       "audited",
       "unverified",
       "inactive",
-      "error",
       "wrong",
       "false",
       "attacked",
@@ -44866,6 +45828,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "spelling",
       "error",
       "mistake",
@@ -44909,6 +45872,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "spelling",
       "error",
       "mistake",
@@ -45072,7 +46036,7 @@
       "shaving foam",
       "air freshener"
     ],
-    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M3 3h.01\" />\n  <path d=\"M7 5h.01\" />\n  <path d=\"M11 7h.01\" />\n  <path d=\"M3 7h.01\" />\n  <path d=\"M7 9h.01\" />\n  <path d=\"M3 11h.01\" />\n  <rect width=\"4\" height=\"4\" x=\"15\" y=\"5\" />\n  <path d=\"m19 9 2 2v10c0 .6-.4 1-1 1h-6c-.6 0-1-.4-1-1V11l2-2\" />\n  <path d=\"m13 14 8-2\" />\n  <path d=\"m13 19 8-2\" />\n</svg>\n"
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m12 19 8-3\" />\n  <path d=\"M14 6h-2\" />\n  <path d=\"M18 8.172V5a1 1 0 00-1-1h-2a1 1 0 00-1 1v3.172\" />\n  <path d=\"m20 11-8 3\" />\n  <path d=\"M20 20a2 2 0 01-2 2h-4a2 2 0 01-2-2v-9a3 3 0 013-3h2a3 3 0 013 3z\" />\n  <path d=\"M4 10h.01\" />\n  <path d=\"M4 2h.01\" />\n  <path d=\"M4 6h.01\" />\n  <path d=\"M8 4h.01\" />\n  <path d=\"M8 8h.01\" />\n</svg>\n"
   },
   {
     "name": "Sprout",
@@ -46117,7 +47081,8 @@
       "todo",
       "selected",
       "okay",
-      "ok"
+      "ok",
+      "enabled"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <rect width=\"18\" height=\"18\" x=\"3\" y=\"3\" rx=\"2\" />\n  <path d=\"m16 9-5.5 5.5L8 12\" />\n</svg>\n"
   },
@@ -46145,7 +47110,8 @@
       "todo",
       "selected",
       "okay",
-      "ok"
+      "ok",
+      "enabled"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M21 10.656V19a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h12.344\" />\n  <path d=\"m9 11 3 3L22 4\" />\n</svg>\n"
   },
@@ -46767,6 +47733,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "deselect",
       "unselect",
       "select",
@@ -46823,6 +47793,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "deselect",
       "unselect",
       "select",
@@ -48311,6 +49285,42 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <rect width=\"18\" height=\"18\" x=\"3\" y=\"3\" rx=\"2\" />\n  <path d=\"M8 12h8\" />\n  <path d=\"M12 8v8\" />\n</svg>\n"
   },
   {
+    "name": "SquarePlusCorner",
+    "slug": "square-plus-corner",
+    "categories": [
+      "math",
+      "development",
+      "text"
+    ],
+    "tags": [
+      "plus",
+      "add",
+      "new",
+      "create",
+      "+",
+      "increase",
+      "increment",
+      "extra",
+      "insert",
+      "addition",
+      "added",
+      "positive",
+      "calculate",
+      "calculator",
+      "button",
+      "keyboard",
+      "toolbar",
+      "maximum",
+      "upgrade",
+      "operator",
+      "join",
+      "concatenate",
+      "code",
+      "coding"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M12.354 21H5a2 2 0 01-2-2V5a2 2 0 012-2h14a2 2 0 012 2v7.354\" />\n  <path d=\"M15 18h6\" />\n  <path d=\"M18 15v6\" />\n</svg>\n"
+  },
+  {
     "name": "SquarePower",
     "slug": "square-power",
     "categories": [
@@ -48719,6 +49729,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "math",
       "multiply",
       "multiplication"
@@ -48942,7 +49956,8 @@
       "todo",
       "selected",
       "okay",
-      "ok"
+      "ok",
+      "enabled"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m19.06 12.501 2.78-2.707a.53.53 0 0 0-.294-.905l-5.166-.755a2.1 2.1 0 0 1-1.595-1.16l-2.31-4.68a.53.53 0 0 0-.95.001L9.216 6.974a2.1 2.1 0 0 1-1.597 1.16l-5.165.755a.53.53 0 0 0-.294.906l3.736 3.637a2.1 2.1 0 0 1 .611 1.879l-.88 5.139a.53.53 0 0 0 .769.56l4.617-2.428.027-.014\" />\n  <path d=\"m15 18 2 2 4-4\" />\n</svg>\n"
   },
@@ -49164,6 +50179,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "mark",
       "symbol",
       "shape",
@@ -49304,7 +50323,8 @@
       "ticked",
       "selected",
       "okay",
-      "ok"
+      "ok",
+      "enabled"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m15 19 2 2 4-4\" />\n  <path d=\"M15 3v5a1 1 0 0 0 1 1h5\" />\n  <path d=\"M21 13V9a2.4 2.4 0 0 0-.706-1.706l-3.588-3.588A2.4 2.4 0 0 0 15 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h6.5\" />\n</svg>\n"
   },
@@ -49479,7 +50499,11 @@
       "×",
       "deny",
       "decline",
-      "refuse"
+      "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M15 3v5a1 1 0 0 0 1 1h5\" />\n  <path d=\"m16 16 5 5\" />\n  <path d=\"M21 12V9a2.4 2.4 0 0 0-.706-1.706l-3.588-3.588A2.4 2.4 0 0 0 15 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h7\" />\n  <path d=\"m21 16-5 5\" />\n</svg>\n"
   },
@@ -49750,6 +50774,33 @@
       "smooth"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M11 21v-2.002\" />\n  <path d=\"M3 3h8a10 10 0 0110 10v8\" />\n  <path d=\"M5 13H3\" />\n  <path d=\"M9 13h1a1 1 0 011 1v1\" />\n</svg>\n"
+  },
+  {
+    "name": "StrokeWidth",
+    "slug": "stroke-width",
+    "categories": [
+      "design"
+    ],
+    "tags": [
+      "stroke",
+      "path",
+      "segment",
+      "vector",
+      "graphics",
+      "design",
+      "shape",
+      "curve",
+      "line",
+      "thickness",
+      "weight",
+      "outline",
+      "brush size",
+      "pen size",
+      "drawing",
+      "editor",
+      "vector graphics"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M3.25 3h17.5\" />\n  <rect x=\"3\" y=\"7\" width=\"18\" height=\"4\" rx=\"1\" />\n  <rect x=\"3\" y=\"15\" width=\"18\" height=\"6\" rx=\"1\" />\n</svg>\n"
   },
   {
     "name": "Subscript",
@@ -50378,7 +51429,11 @@
       "×",
       "deny",
       "decline",
-      "refuse"
+      "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m16.5 6.5-3.914-3.914A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.43 2.43 0 0 0 3.42 0l1.79-1.79\" />\n  <path d=\"m16.5 10.5 5 5\" />\n  <path d=\"m21.5 10.5-5 5\" />\n  <circle cx=\"7.5\" cy=\"7.5\" r=\".5\" fill=\"currentColor\" />\n</svg>\n"
   },
@@ -51175,6 +52230,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "booked",
       "purchased",
       "receipt",
@@ -51397,6 +52453,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "refunded",
       "used",
       "void",
@@ -51407,8 +52467,7 @@
       "banned",
       "barred",
       "forbidden",
-      "prohibited",
-      "error"
+      "prohibited"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z\" />\n  <path d=\"m9.5 14.5 5-5\" />\n  <path d=\"m9.5 9.5 5 5\" />\n</svg>\n"
   },
@@ -53098,6 +54157,7 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "followed",
       "subscribed"
     ],
@@ -53559,10 +54619,62 @@
       "selected",
       "okay",
       "ok",
+      "enabled",
       "followed",
       "subscribed"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M2 21a8 8 0 0 1 13.292-6\" />\n  <circle cx=\"10\" cy=\"8\" r=\"5\" />\n  <path d=\"m16 19 2 2 4-4\" />\n</svg>\n"
+  },
+  {
+    "name": "UserRoundClock",
+    "slug": "user-round-clock",
+    "categories": [
+      "account",
+      "time",
+      "people"
+    ],
+    "tags": [
+      "user",
+      "people",
+      "identity",
+      "individual",
+      "personal",
+      "person",
+      "account",
+      "contact",
+      "profile",
+      "member",
+      "client",
+      "participant",
+      "guest",
+      "customer",
+      "username",
+      "clock",
+      "time",
+      "hour",
+      "minute",
+      "second",
+      "timestamp",
+      "timer",
+      "duration",
+      "interval",
+      "frequency",
+      "schedule",
+      "deadline",
+      "pending",
+      "delayed",
+      "watch",
+      "history",
+      "log",
+      "recent",
+      "activity",
+      "session",
+      "avatar",
+      "badge",
+      "reminder",
+      "audit"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M17 15.5v1.7l1 .625\" />\n  <path d=\"M2 21a8 8 0 016.898-7.924\" />\n  <path d=\"M8.987 12.897a5 5 0 116.008-4.673\" />\n  <circle cx=\"17\" cy=\"17\" r=\"5\" />\n</svg>\n"
   },
   {
     "name": "UserRoundCog",
@@ -54031,9 +55143,12 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "unfollow",
-      "unsubscribe",
-      "unavailable"
+      "unsubscribe"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"m16.5 16.5 5 5\" />\n  <path d=\"M2 21a8 8 0 0 1 11.531-7.18\" />\n  <path d=\"m21.5 16.5-5 5\" />\n  <circle cx=\"10\" cy=\"8\" r=\"5\" />\n</svg>\n"
   },
@@ -54216,9 +55331,12 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "unfollow",
-      "unsubscribe",
-      "unavailable"
+      "unsubscribe"
     ],
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2\" />\n  <circle cx=\"9\" cy=\"7\" r=\"4\" />\n  <line x1=\"17\" x2=\"22\" y1=\"8\" y2=\"13\" />\n  <line x1=\"22\" x2=\"17\" y1=\"8\" y2=\"13\" />\n</svg>\n"
   },
@@ -55203,6 +56321,34 @@
     "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M18 21V10a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1v11\" />\n  <path d=\"M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V8a2 2 0 0 1 1.132-1.803l7.95-3.974a2 2 0 0 1 1.837 0l7.948 3.974A2 2 0 0 1 22 8z\" />\n  <path d=\"M6 13h12\" />\n  <path d=\"M6 17h12\" />\n</svg>\n"
   },
   {
+    "name": "WarehouseWaves",
+    "slug": "warehouse-waves",
+    "categories": [
+      "development",
+      "buildings"
+    ],
+    "tags": [
+      "storage",
+      "storehouse",
+      "depot",
+      "depository",
+      "repository",
+      "stockroom",
+      "logistics",
+      "building",
+      "lakehouse",
+      "lake warehouse",
+      "data lake",
+      "data warehouse",
+      "data platform",
+      "analytics",
+      "big data",
+      "water",
+      "lake"
+    ],
+    "svgContent": "<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 24 24\"\n  fill=\"none\"\n  stroke=\"currentColor\"\n  stroke-width=\"2\"\n  stroke-linecap=\"round\"\n  stroke-linejoin=\"round\"\n>\n  <path d=\"M2 11V8a2 2 0 0 1 1.132-1.803l7.95-3.974a2 2 0 0 1 1.837 0l7.948 3.974A2 2 0 0 1 22 8v3\" />\n  <path d=\"M6 11v-1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v1\" />\n  <path d=\"M2 16q2.5 2 5 0t5 0 5 0 5 0\" />\n  <path d=\"M2 21q2.5 2 5 0t5 0 5 0 5 0\" />\n</svg>\n"
+  },
+  {
     "name": "WashingMachine",
     "slug": "washing-machine",
     "categories": [
@@ -56165,6 +57311,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "math",
       "multiply",
       "multiplication"
@@ -56206,6 +57356,10 @@
       "deny",
       "decline",
       "refuse",
+      "disabled",
+      "failed",
+      "unavailable",
+      "error",
       "math",
       "multiply",
       "multiplication",
